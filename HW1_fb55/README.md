@@ -1,42 +1,60 @@
-PUI 2015 HW 1. Due W 9/9 at 12:30PM. On NYU classes please turn in your github account name where the repositories you will create in this and the following homework sets will be hosted.
+# PUI 2016 HW 1.  
 
-Reading:
+## On NYU classes please turn in your github account name where the repositories you will create in this and the following homework sets will be hosted.
+
+# Assigned Reading:
 
 What is the question? Jeff Leek & Roger D. Peng
 http://moscow.sci-hub.bz/4d3cf57483ccf211f66cad18440023cd/10.1126%40science.aaa6146.pdf
 
-Assignment 1: Finish Lab 1
-	Finish the lab started in the first lab session:
-https://github.com/fedhere/PUI2015labs/blob/master/github_create_repo_cmds.md
-If you were able to follow along you should have a repository set up on your local machine as well as on your github account named gittest_<yourname>, with a single file in it named myfirstfle.txt, and you should have a resolved merge conflict. Because your repo is public we can access it, and see the history of your file, and the conflict in it. If you fell behind, please take yourself to this point, and feel free to work with others, but remember that it is your responsibility to learn, and be able to reproduce by yourself the work that you do in groups. 
-The next steps are: 
-pair with a classmate and fork each other’s repository. Instructions on how to do it are in the lab handout (and on the github website, of course). You need to first fork the repo, and then clone the repo on your machine.
-make changes to your local copy of their file (whichever changes you wish to make). commit your modified file and push the changes to your fork of the repo.
-request a merge from your classmate whose repo you forked (again: instructions in the lab handout)
-accept the merge request from your class mate.
+### GRADING: questions on the readout will appear in the pre-class quizzez. 
 
-GRADING: 
-On your github account we must be able to see .
-your own repo, and in its history we need to see the merge. 
-your fork of your class mate repo and the changes you made to their file in its history
+
+# Assignment 1: Finish Lab 1
+
+### Finish the lab started in the first lab session if you have not in class:
+https://github.com/fedhere/PUI2016_fb55/blob/master/Lab1_fb55/github_create_repo_cmds.md
+If you were able to follow along you should have a repository set up on your local machine as well as on your github account named gittest_<netID>, with a single file in it named myfirstfle.txt, and you should have a resolved merge conflict. Because your repo is public we can access it, and see the history of your file, and the conflict in it. If you fell behind, please take yourself to this point, and feel free to work with others, but remember that it is your responsibility to learn, and be able to reproduce by yourself the work that you do in groups. 
+
+### Create a conflict:
+
+Pair with a classmate and fork each other’s repository. You need to first "fork" the repo, and then "clone" the repo on your machine. Further instructions on how to do it are on the github website, if you need. 
+Make changes to your local copy of their file (whichever changes you wish to make). 
+Commit your modified file and push the changes to your fork of the repo.
+Request a merge from your classmate whose repo you forked.
+Accept the merge request from your class mate.
+
+### GRADING: 
+-On your github account we must be able to see .
+
+	1. our own repo, and in its history we need to see the merge. 
+
+	2. your fork of your class mate repo and the changes you made to their file in its history
+
 On your classmate repo we need to see your merge request.
 
-Assignment 2: Set up your environment: 
-generate a directory on your computer called PUI2015. 
-create an environmental variable PUI2015 that points to that directory (the full directory path starting with /home on a linux box, and with /Users on a mac) so that typing 
-$ echo $PUI2015 
-returns the full path to the directory. save  it in your .bashrc (linux) or .bash_profile (OS X) so that every time you open a new terminal the terminal knows what the $PUI2015 env var is set to.
-create an alias such that typing 
- $ pui2015 
-takes you to that directory (hint: the alias uses the cd command). use the env. variable $PUI2015 to do so. 
+## Assignment 2: Set up your environment: 
 
-Take a screenshot of your .bashrc/.bash_profile file where one can see the alias and env. variable you created. Type this series of commands on the terminal:
-$ pwd
-$ pui2015
-$ pwd
+1. Generate a directory on compute called PUI2016_<netID>. 
+
+2. Create an environmental variable on your compute account called PUI2016 that points to the directory PUI2016_<netID> by its full directory path: starting with /home [/home on a linux box, and with /Users on a mac if you want to replicate it on your machine] so that typing 
+
+		$echo $PUI2016 
+
+returns the full path to the directory. Save  it in the .bashrc [.bashrc for (linux) or .bash_profile (OS X) if you want to replicate it on your machine] so that every time you open a new terminal the terminal knows what the $PUI2016 environmental variable (env var) is set to.
+3. Create an alias such that typing 
+ 		$ pui2015 
+takes you to that directory. The alias must use the 'cd' command, and the env var $PUI2015 to do so. 
+
+4. Take a screenshot of your .bashrc/.bash_profile file so that we can see the alias and env var you created. 
+
+6. Type this series of commands on the terminal:
+		$ pwd
+		$ pui2015
+		$ pwd
 Take a screenshot of your terminal that shows this series of commands and their output. 
 
-Once your environment is set up go to github online and CREATE A NEW GITHUB REPO CALLED PUI2015_<firstinitialandlastname> ( this for me would be PUI2015_fbianco: https://github.com/fedhere/PUI2015_fbianco ). Follow the github directions to create a repository on the command line on your local machine.  Notice that in this case you are working in the reverse order compared to the lab: you create the first instance of the repository on the remote server (on the web) and then you create a local repo to link to it on your machine. Follow the steps indicated by github to create the repo, a README file, and to link the online and local repos. 
+7. Once your environment is set up go to github online and CREATE A NEW GITHUB REPO CALLED PUI2015_<netID> ( this for me would be PUI2015_fbianco: https://github.com/fedhere/PUI2015_fbianco ). Follow the github directions to create a repository on the command line on your local machine.  Notice that in this case you are working in the reverse order compared to the lab: you create the first instance of the repository on the remote server (on the web) and then you create a local repo to link to it on your machine. Follow the steps indicated by github to create the repo, a README file, and to link the online and local repos. 
 
 Now modify your README.md file: edit the copy on your machine to have it describe what you did to set up your enviroment and upload the screenshots I directed you to take above, so that they are displayed in your README.md (like in the image below). The README.md is a “markdown”file. To see what the syntax to upload an image in a markdown file, or in general to format the text, you can look at the README.md file in my PUI2015_fbianco repository (link above, and image below) and if you look at the raw file by clicking the Raw button on the top right you can see the syntax. 
 Remember that you also need to upload the images in your remote directory for them to be displayed in your README! just like any file you add them by git add and git commit, git push.
