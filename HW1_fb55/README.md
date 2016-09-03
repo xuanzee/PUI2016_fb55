@@ -1,0 +1,105 @@
+PUI 2015 HW 1. Due W 9/9 at 12:30PM. On NYU classes please turn in your github account name where the repositories you will create in this and the following homework sets will be hosted.
+
+Reading:
+
+What is the question? Jeff Leek & Roger D. Peng
+http://moscow.sci-hub.bz/4d3cf57483ccf211f66cad18440023cd/10.1126%40science.aaa6146.pdf
+
+Assignment 1: Finish Lab 1
+	Finish the lab started in the first lab session:
+https://github.com/fedhere/PUI2015labs/blob/master/github_create_repo_cmds.md
+If you were able to follow along you should have a repository set up on your local machine as well as on your github account named gittest_<yourname>, with a single file in it named myfirstfle.txt, and you should have a resolved merge conflict. Because your repo is public we can access it, and see the history of your file, and the conflict in it. If you fell behind, please take yourself to this point, and feel free to work with others, but remember that it is your responsibility to learn, and be able to reproduce by yourself the work that you do in groups. 
+The next steps are: 
+pair with a classmate and fork each other’s repository. Instructions on how to do it are in the lab handout (and on the github website, of course). You need to first fork the repo, and then clone the repo on your machine.
+make changes to your local copy of their file (whichever changes you wish to make). commit your modified file and push the changes to your fork of the repo.
+request a merge from your classmate whose repo you forked (again: instructions in the lab handout)
+accept the merge request from your class mate.
+
+GRADING: 
+On your github account we must be able to see .
+your own repo, and in its history we need to see the merge. 
+your fork of your class mate repo and the changes you made to their file in its history
+On your classmate repo we need to see your merge request.
+
+Assignment 2: Set up your environment: 
+generate a directory on your computer called PUI2015. 
+create an environmental variable PUI2015 that points to that directory (the full directory path starting with /home on a linux box, and with /Users on a mac) so that typing 
+$ echo $PUI2015 
+returns the full path to the directory. save  it in your .bashrc (linux) or .bash_profile (OS X) so that every time you open a new terminal the terminal knows what the $PUI2015 env var is set to.
+create an alias such that typing 
+ $ pui2015 
+takes you to that directory (hint: the alias uses the cd command). use the env. variable $PUI2015 to do so. 
+
+Take a screenshot of your .bashrc/.bash_profile file where one can see the alias and env. variable you created. Type this series of commands on the terminal:
+$ pwd
+$ pui2015
+$ pwd
+Take a screenshot of your terminal that shows this series of commands and their output. 
+
+Once your environment is set up go to github online and CREATE A NEW GITHUB REPO CALLED PUI2015_<firstinitialandlastname> ( this for me would be PUI2015_fbianco: https://github.com/fedhere/PUI2015_fbianco ). Follow the github directions to create a repository on the command line on your local machine.  Notice that in this case you are working in the reverse order compared to the lab: you create the first instance of the repository on the remote server (on the web) and then you create a local repo to link to it on your machine. Follow the steps indicated by github to create the repo, a README file, and to link the online and local repos. 
+
+Now modify your README.md file: edit the copy on your machine to have it describe what you did to set up your enviroment and upload the screenshots I directed you to take above, so that they are displayed in your README.md (like in the image below). The README.md is a “markdown”file. To see what the syntax to upload an image in a markdown file, or in general to format the text, you can look at the README.md file in my PUI2015_fbianco repository (link above, and image below) and if you look at the raw file by clicking the Raw button on the top right you can see the syntax. 
+Remember that you also need to upload the images in your remote directory for them to be displayed in your README! just like any file you add them by git add and git commit, git push.
+
+NOTE: after you modify your .bashrc or .bash_profile you will have to rerun it: 
+$ source .bashrc 
+for the new set up to be incorporated in your environment. However, every new bash terminal you open will automatically read the .bashrc/.bash_profile and know about your new alias/env variables
+
+GRADING: 
+We will grade you based on the README file you create in the github directory as described above. The screen shots need to show the appropriate lines in the .bashrc/.bash_profile, and that running the commands takes you to the right directory.
+
+Optional Assignment: Reproducible research. - NOT TO BE GRADED BUT PLEASE TRY IT ANYWAYS. Figuring it out will greatly help you get the most out of the next several lectures.
+Create a notebook of your own following the steps outlined in the one below:
+https://github.com/fedhere/UInotebooks/blob/master/HW1_reproducible_distributions.ipynb
+1) On the terminal (bash shell) go to the PUI2015 directory you created in Assignment 1 and set up as a repo in Assignment 2.
+2) Download the notebook i created (link above). To do so click on Raw next to the notebook. 
+Now you have 2 choices: you can copy and paste the RAW ipython notebook (which is  a JSON file) onto a new file on your own machine (name the file HW1_reproducible_distributions.ipynb) or you can use the wget command on the terminal: typing 
+$ wget https://raw.githubusercontent.com/fedhere/UInotebooks/master/HW1_reproducible_distributions.ipynb
+
+will save a version of the notebook in the directory where you were when you typed the command. wget, which stands for web get, downloads any files, or even entire directories, from a web URL.
+2) Fill in the code cells that i left empty following the directions.
+3) Once the notebook is done and rendered (you see the plots at the end of it) “stage it” so that git can track it (hint: follow the procedure in the lab assignment and use git add and git commit)
+4) link the current directory to your new github repo which you created in assignment 2 (PUI2015_<firstinitialandlastname> on your github account). (hint: just like in the lab assignment use git remote add origin and git push -u as in the image on the right, but using the URL of your new repo of course)
+5) push the notebook into the github repo and check that it renders ok. remember to check that it runs ok as well: before you commit open a new instance of ipython notebook (or restart your kernel!) and go through the notebook cell by cell to assure that there are no problems
+
+
+
+
+
+
+
+
+References: 
+markdown syntax - http://daringfireball.net/projects/markdown/syntax
+basic bash commands - http://www.tldp.org/LDP/abs/html/basic.html
+environment setup - http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html#sect_03_01_02
+additional references were provided in the class slides.
+
+Text Editors. 
+
+-m
+remember to add the -m “my commit message” when you commit to github, otherwise github will automatically open a text editor for you to type your message in , and then you have to deal with it. If github opened a text editor it is either emacs or vi, depending on your setup. If you are using emacs or vi, either because github opened them or to edit files, this is how you save your work and exit:
+
+emacs 
+Save: Ctrl+x Ctrl+s
+Exit: Ctrl+x Ctrl+c
+(if your emacs is running on the terminal you have to use these shortcuts, if it is running in its own X window you can use the dropdown menu)
+
+vi
+Save: esc :w
+Exit: esc :q
+
+
+Key Concepts: 
+
+falsifiability and law of parsimony
+types of scientific questions
+reproducible research
+PEP8 and style standards 
+
+work with github 
+basic bash commands
+understand how to setup your environment
+creating and checking into github an ipython notebook
+
+
