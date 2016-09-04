@@ -200,14 +200,18 @@ Follow the instructions to fix the merge online, but note: where github says to 
   git checkout -b gdobler-master master
   git pull https://github.com/gdobler/gittest_fbianco.git master
   ```
-Edit the files as needed. Then the next two lines are implicitly assumed in the Github directions.
+Edit the files as needed. Then the next two lines are implicitly assumed in the Github directions: add the file again and push it _to the new branch_ .
 
   ```
   git add myfirstfile.txt 
   git push origin gdobler-master
   ```
-Now continue following the directions, and as you go online you will see the new branch of your repository (the version you just changed, and you will be able to merge the original branch (Master) and the new one (gdobler-master).
-Things can get very complicated here.... if you are confused you are not alone!
+Online you will see __your own__ pull request: 
+
+![Alt text](lab1_imgs/Lab1_branchMerge.png)
+
+This is the request to merge your two branches. Follow the instructions online.
+Things can get very complicated here with merges and conflicts.... if you are confused you are not alone!
 
 ![Alt text](lab1_imgs/git.png)
 
