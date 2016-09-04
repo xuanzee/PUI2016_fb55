@@ -215,6 +215,7 @@ Things can get very complicated here with merges and conflicts.... if you are co
 
 ![Alt text](lab1_imgs/git.png)
 
+
 ## Maintain the fork up to date and synced with the master
 
 Follow the instructions here:
