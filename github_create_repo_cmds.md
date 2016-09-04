@@ -167,8 +167,8 @@ git push
 ##check your email: you will find the merge request from your new friend!
 ##let's get back to our own repo online and look for pull requests. let's accept this request!
 
-![Alt text](lab1_imgs/Screen Shot 2015-09-02 at 1.34.13 AM.png)
-![Alt text](lab1_imgs/Screen Shot 2015-09-02 at 1.35.43 AM.png)
+![Alt text](lab1_imgs/Lab1_PullReq.png)
+![Alt text](lab1_imgs/Lab1_MergePull.png)
 
 
 ```
@@ -179,6 +179,9 @@ git pull
 less myfirstfile.txt 
 git log
 ```
-#now don't forget to pull the file before you make more changes or you may get another conflict. However note that if you change _a different line_ than the one your friend changed, the merge may work: github will pull the line you changed from your version and the line your friend changed from his. give it a try on your own!
 
-```
+#Now don't forget to pull the file before you make more changes or you may get another conflict! 
+If you change _a different line_ than the one your friend changed, the merge should work.
+If you change the same line changed by someone working on the master repository then the merge will cause a conflict. Github will warn you when you submit the pull request, and the admin of the master needs to solve the conflict. 
+
+![Alt text](lab1_imgs/Lab1_mergeConflict.png)
