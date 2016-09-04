@@ -86,7 +86,7 @@ NOTE: after you modify your .bashrc or .bash_profile you will have to rerun it:
 for the new set up to be incorporated in your environment. However, every new bash terminal you open will automatically read the .bashrc/.bash_profile and know about your new alias/env variables
 
 ### GRADING: 
-We will grade you based on the README file you create in the github directory as described above. The screen shots need to show the appropriate lines in the .bashrc and that running the commands takes you to the right directory.
+We will grade you based on the README.md file you create in the github directory as described above. The README.mdfile **has to be your own!** While you can work in groups this must be written by you in your own words, to show you know what is going on. The screen shots need to show the appropriate lines in the .bashrc and that running the commands as requested takes you to the right directory.
 
 ![Screenshot 1 Assignment 2: my .bashrc](HW1_SS1.png)
 ![Screenshot 2 Assignment 2: my succesfull commands using $PUI2016 and the pui2016 alias](HW1_SS2.png)
@@ -95,26 +95,29 @@ We will grade you based on the README file you create in the github directory as
 
 ##This may be hard, but figuring it out will greatly help you get the most out of the next several lectures. We keep track of your EC assignments and they will help your final grade. This homework is a notebook: this is the standard format of the homeworks in the future. To get full points your notebook must
 ## - be rendered (e.g. plots must be visible) so that we see what you intended to turn in
-## - run: the TA must be able to download your notebook and run it without error. Failing to run will cost you 25% of the grade! 
+## - run: the TA must be able to download your notebook and run it without error. Failing to run will cost you 25% of the Assignment grade! 
 
 1. Go to the PUI2015 directory you created in Assignment 1 and set up as a repo in Assignment 2.
 2. Download the nontebook https://github.com/fedhere/PUI2016_fb55/blob/master/HW1_fb55/HW1_3_fb55.ipynb
 . To do so click on Raw on the top right of the notebook. 
 Now you have 2 choices: you can copy and paste the entire RAW Jupyter notebook (which is  a JSON file) onto a new file on your own machine (name the file HW1_3_<netID>.ipynb) or you can use the <i>wget</i> command on the terminal: typing 
-
-		wget https://raw.githubusercontent.com/fedhere/PUI2016_fb55/master/HW1_fb55/HW1_3_fb55.ipynb
-
+	```
+	wget https://raw.githubusercontent.com/fedhere/PUI2016_fb55/master/HW1_fb55/HW1_3_fb55.ipynb
+	```
 will save a version of the notebook in the directory where you were when you typed the command. wget, which stands for web get, downloads any files, or even entire directories, from a web URL. You must change the name of the notebook to HW1_3_\<netID>.ipynb
 
 3. Fill in the code cells that I left empty following the directions. Run the check cells, which will help you to know that the cells you filled in were filled in correctly (you want to see the same output I saw, which is in the redered version of the notebook).
 
 4. Once the notebook is done and rendered (you see the plots at the end of it) “stage it” so that git can track it: just follow the procedure in the lab assignment and use 
-		git add 
-		git commit -m '<your message here>'
-
+	```
+	git add 
+	git commit -m '<your message here>'
+	```
 5. Link the current directory to your new github repo (which you created in assignment 2) if you have not done so yet, (PUI2016_\<netID> on your github account, just like in the lab assignment you will need to use use 
- 		git remote add origin 
-		git push -u  <url> 
+ 	```
+	git remote add origin 
+	git push -u  <url> 
+	```
 using the URL of your new repo.
 
 6. Push the notebook into the github repo and check that it renders ok. Remember to check that it runs ok as well: before you commit open a new instance of Jupyter notebook (or restart your kernel!) and run through the notebook cell by cell to assure that there are no problems
