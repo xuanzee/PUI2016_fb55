@@ -62,9 +62,9 @@ takes you to that directory. The alias must use the 'cd' command, and the env va
 
 6. Type this series of commands on the terminal:
 
-		$ pwd
-		$ pui2016
-		$ pwd
+		pwd
+		pui2016
+		pwd
 
 Take a screenshot of your terminal that shows this series of commands and their output. 
 
