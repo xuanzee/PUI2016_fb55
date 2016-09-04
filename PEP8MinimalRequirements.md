@@ -17,18 +17,32 @@ The full list of PEP8 style guidelines is far longer https://www.python.org/dev/
   ```
   ridesByZip = ...
   ```
-	instead of:
+  instead of:
   ```
   rzp = ...
   ```
-	or even worse:
-	```
-	a = ...
-	```
-	that way we can read your code if needed and understand what you did. That may save 
+   or even worse:
+   ```
+   a = ...
+   ```
+  that way we can read your code if needed and understand what you did. That may save 
   you if your code does not run for silly reasons: if we can fix it we may award partial 
-  points (if the reason is silly enough)
+  points (if the reason is silly enough). 
+  Naming conventions are generally strictly observed and not observing them will make you a much less strong job candidate for any job that requires conding. https://www.python.org/dev/peps/pep-0008/#prescriptive-naming-conventions
+  
+- document functions with docstrings as per [PEP257](https://www.python.org/dev/peps/pep-0257/). The docstring is a phrase ending in a period. It starts with """, it prescribes the function or method's effect as a command ("Do this", "Return that"), it describes the arguments, it ends with """ on a separate line.
+	```
+	def complex(real=0.0, imag=0.0):
+    	"""Form a complex number.   
 
+    	Keyword arguments:
+    	real -- the real part (default 0.0)
+    	imag -- the imaginary part (default 0.0)
+    	"""
+    	if imag == 0.0 and real == 0.0:
+        	return complex_zero
+    	...
+	```
 - use spaces between operators:   
 	```
   	a + b
