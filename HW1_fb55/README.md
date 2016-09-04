@@ -63,22 +63,28 @@ NOTE: after you modify your .bashrc or .bash_profile you will have to rerun it:
 $ source .bashrc 
 for the new set up to be incorporated in your environment. However, every new bash terminal you open will automatically read the .bashrc/.bash_profile and know about your new alias/env variables
 
-GRADING: 
-We will grade you based on the README file you create in the github directory as described above. The screen shots need to show the appropriate lines in the .bashrc/.bash_profile, and that running the commands takes you to the right directory.
+### GRADING: 
+We will grade you based on the README file you create in the github directory as described above. The screen shots need to show the appropriate lines in the .bashrc and that running the commands takes you to the right directory.
 
-Optional Assignment: Reproducible research. - NOT TO BE GRADED BUT PLEASE TRY IT ANYWAYS. Figuring it out will greatly help you get the most out of the next several lectures.
-Create a notebook of your own following the steps outlined in the one below:
-https://github.com/fedhere/UInotebooks/blob/master/HW1_reproducible_distributions.ipynb
-1) On the terminal (bash shell) go to the PUI2015 directory you created in Assignment 1 and set up as a repo in Assignment 2.
-2) Download the notebook i created (link above). To do so click on Raw next to the notebook. 
-Now you have 2 choices: you can copy and paste the RAW ipython notebook (which is  a JSON file) onto a new file on your own machine (name the file HW1_reproducible_distributions.ipynb) or you can use the wget command on the terminal: typing 
-$ wget https://raw.githubusercontent.com/fedhere/UInotebooks/master/HW1_reproducible_distributions.ipynb
+## Assignment 3 - Extra Credit. This may be hard, but figuring it out will greatly help you get the most out of the next several lectures. We keep track of your EC assignments and they will help your final grade.
 
-will save a version of the notebook in the directory where you were when you typed the command. wget, which stands for web get, downloads any files, or even entire directories, from a web URL.
-2) Fill in the code cells that i left empty following the directions.
-3) Once the notebook is done and rendered (you see the plots at the end of it) “stage it” so that git can track it (hint: follow the procedure in the lab assignment and use git add and git commit)
-4) link the current directory to your new github repo which you created in assignment 2 (PUI2015_<firstinitialandlastname> on your github account). (hint: just like in the lab assignment use git remote add origin and git push -u as in the image on the right, but using the URL of your new repo of course)
-5) push the notebook into the github repo and check that it renders ok. remember to check that it runs ok as well: before you commit open a new instance of ipython notebook (or restart your kernel!) and go through the notebook cell by cell to assure that there are no problems
+1. Go to the PUI2015 directory you created in Assignment 1 and set up as a repo in Assignment 2.
+2. Download the nontebook https://github.com/fedhere/PUI2016_fb55/blob/master/HW1_fb55/HW1_3_fb55.ipynb
+. To do so click on Raw on the top right of the notebook. 
+Now you have 2 choices: you can copy and paste the entire RAW Jupyter notebook (which is  a JSON file) onto a new file on your own machine (name the file HW1_3_<netID>.ipynb) or you can use the <i>wget</i> command on the terminal: typing 
+		$ wget https://raw.githubusercontent.com/fedhere/PUI2016_fb55/master/HW1_fb55/HW1_3_fb55.ipynb
+
+will save a version of the notebook in the directory where you were when you typed the command. wget, which stands for web get, downloads any files, or even entire directories, from a web URL. You must change the name of the notebook to HW1_3_<netID>.ipynb
+
+3. Fill in the code cells that i left empty following the directions.
+
+4. Once the notebook is done and rendered (you see the plots at the end of it) “stage it” so that git can track it (hint: follow the procedure in the lab assignment and use git add and git commit)
+
+5. Link the current directory to your new github repo which you created in assignment 2 if you bave not done so yet, (PUI2015_<netID> on your github account, just like in the lab assignment you will need to use use 
+ 		$git remote add origin 
+		$git push -u  using the URL of your new repo
+
+6. Push the notebook into the github repo and check that it renders ok. Remember to check that it runs ok as well: before you commit open a new instance of Jupyter notebook (or restart your kernel!) and go through the notebook cell by cell to assure that there are no problems
 
 
 
@@ -87,7 +93,7 @@ will save a version of the notebook in the directory where you were when you typ
 
 
 
-References: 
+## References: 
 markdown syntax - http://daringfireball.net/projects/markdown/syntax
 basic bash commands - http://www.tldp.org/LDP/abs/html/basic.html
 environment setup - http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_01.html#sect_03_01_02
@@ -95,20 +101,23 @@ additional references were provided in the class slides.
 
 Text Editors. 
 
--m
+#### -m
+
 remember to add the -m “my commit message” when you commit to github, otherwise github will automatically open a text editor for you to type your message in , and then you have to deal with it. If github opened a text editor it is either emacs or vi, depending on your setup. If you are using emacs or vi, either because github opened them or to edit files, this is how you save your work and exit:
 
-emacs 
+#### emacs 
+
 Save: Ctrl+x Ctrl+s
 Exit: Ctrl+x Ctrl+c
 (if your emacs is running on the terminal you have to use these shortcuts, if it is running in its own X window you can use the dropdown menu)
 
-vi
+#### vim (vi)
+
 Save: esc :w
 Exit: esc :q
 
 
-Key Concepts: 
+## Key Concepts: 
 
 falsifiability and law of parsimony
 types of scientific questions
@@ -118,6 +127,6 @@ PEP8 and style standards
 work with github 
 basic bash commands
 understand how to setup your environment
-creating and checking into github an ipython notebook
+creating and checking into github an Jupyter notebook
 
 
