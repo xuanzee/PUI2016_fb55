@@ -155,14 +155,14 @@ Exit: esc :q
 
 ## Key Concepts: 
 
-falsifiability and law of parsimony
-types of scientific questions
-reproducible research
-PEP8 and style standards 
+- falsifiability and law of parsimony
+- types of scientific questions
+- reproducible research
+- PEP8 and style standards 
 
-work with github 
-basic bash commands
-understand how to setup your environment
-creating and checking into github a Jupyter notebook
+- work with github 
+- basic bash commands
+- understand how to setup your environment
+- creating and checking into github a Jupyter notebook
 
 
