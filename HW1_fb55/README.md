@@ -51,7 +51,9 @@ accept the merge request from your class mate.
 		echo $PUI2016 
 
 returns the full path to the directory. Save  it in the .bashrc [.bashrc for (linux) or .bash_profile (OS X) if you want to replicate it on your machine] so that every time you open a new terminal the terminal knows what the $PUI2016 environmental variable (env var) is set to. To log into compute, as you know, you want to run the command 
-		ssh -X -A -t gw.cusp.nyu.edu ssh -A -X compute 
+		
+		ssh -X -A -t <netID>@gw.cusp.nyu.edu ssh -A -X compute 
+		
 on your terminal. Alternatively you can log in with the remote desktop into the green environment, and open a shell there.
 
 3. Create an alias such that typing 
