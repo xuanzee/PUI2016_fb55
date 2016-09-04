@@ -2,6 +2,9 @@
 
 ## On NYU classes please turn in your github account name where the repositories you will create in this and the following homework sets will be hosted.
 
+## Create a directory HW1_\<netID> on your github repo and check the assignments there as directed. Remember to include a directory readme called README.md which briefly describes the homework, who you worked with, and what your contribution was. You will not be penalized if you had troubles, and you were mostly, or even entirely just trying to understand with your classmates help! But you must state so in the README.md. **If what you say is not consistent with what your classmates say in their README.md we will investigate the inconsistency, and you may loose points.**
+
+
 # Assigned Reading:
 
 What is the question? Jeff Leek & Roger D. Peng
@@ -14,15 +17,22 @@ http://moscow.sci-hub.bz/4d3cf57483ccf211f66cad18440023cd/10.1126%40science.aaa6
 
 ### Finish the lab started in the first lab session if you have not in class:
 https://github.com/fedhere/PUI2016_fb55/blob/master/Lab1_fb55/github_create_repo_cmds.md
-If you were able to follow along you should have a repository set up on your local machine as well as on your github account named gittest_<netID>, with a single file in it named myfirstfle.txt, and you should have a resolved merge conflict. Because your repo is public we can access it, and see the history of your file, and the conflict in it. If you fell behind, please take yourself to this point, and feel free to work with others, but remember that it is your responsibility to learn, and be able to reproduce by yourself the work that you do in groups. 
+At the end you should have a repository set up on your local machine as well as on your github account named gittest_\<netID>, with a single file in it named myfirstfile.txt, and you should have a resolved merge conflict. Because your repo is public we can access it, and see the history of your file, and the conflict in it. If you fell behind, please take yourself to this point, and feel free to work with others, but remember that it is your responsibility to learn, and be able to reproduce by yourself the work that you do in groups. 
 
 ### Create a conflict:
 
-Pair with a classmate and fork each other’s repository. You need to first "fork" the repo, and then "clone" the repo on your machine. Further instructions on how to do it are on the github website, if you need. 
-Make changes to your local copy of their file (whichever changes you wish to make). 
-Commit your modified file and push the changes to your fork of the repo.
-Request a merge from your classmate whose repo you forked.
-Accept the merge request from your class mate.
+Pair with a classmate and fork each other’s repository. 
+
+1. You need to first "fork" the repo, and then "clone" the repo on your machine. Further instructions on how to do it are on the github website, if you need. 
+
+2. Make changes to your local copy of your classmate file (whichever changes you wish to make). At the same time ask your classmate to make a change of his own on his copy of the same file (a change different from yours).
+
+3. Both of you should commit your own modified file and push the changes to your won fork of the repo.
+
+4. Request a merge from your classmate whose repo you forked. 
+
+5. Each of you will have a conflict when trying to merge your classmate fork. Solve the conflict in the repo you own, and
+accept the merge request from your class mate.
 
 ### GRADING: 
 -On your github account we must be able to see .
@@ -31,7 +41,7 @@ Accept the merge request from your class mate.
 
 	2. your fork of your class mate repo and the changes you made to their file in its history
 
-On your classmate repo we need to see your merge request.
+-On your classmate repo we need to see your merge request.
 
 ## Assignment 2: Set up your environment: 
 
