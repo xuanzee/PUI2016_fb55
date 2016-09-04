@@ -19,24 +19,23 @@ http://moscow.sci-hub.bz/4d3cf57483ccf211f66cad18440023cd/10.1126%40science.aaa6
 https://github.com/fedhere/PUI2016_fb55/blob/master/Lab1_fb55/github_create_repo_cmds.md
 At the end you should have a repository set up on your local machine as well as on your github account named gittest_\<netID>, with a single file in it named myfirstfile.txt, and you should have a resolved merge conflict. Because your repo is public we can access it, and see the history of your file, and the conflict in it. If you fell behind, please take yourself to this point, and feel free to work with others, but remember that it is your responsibility to learn, and be able to reproduce by yourself the work that you do in groups. 
 
-### Create a conflict:
+### Work on a fork:
 
-Pair with a classmate and fork each other’s repository. 
+Pair with a classmate and fork each other’s repository. You are making your own copy of the repository, on which you can work independently. 
 
-1. You need to first "fork" the repo, and then "clone" the repo on your machine. Further instructions on how to do it are on the github website, if you need. 
+1. You need to first "fork" the repo, and then "clone" the fork of the repo on your machine. Further instructions on how to do it are on the Github website, if you need. 
 
-2. Make changes to your local copy of your classmate file (whichever changes you wish to make). At the same time ask your classmate to make a change of his own on his copy of the same file (a change different from yours).
+2. Make changes to your local copy of your classmate file (whichever changes you wish to make). At the same time your class mate can make chnges of his or her own, as long as they do not affect __the same line__ as the one you are changing.
 
 3. Both of you should commit your own modified file and push the changes to your won fork of the repo.
 
 4. Request a merge from your classmate whose repo you forked. 
 
-5. Each of you will have a conflict when trying to merge your classmate fork. Solve the conflict in the repo you own, and
-accept the merge request from your class mate.
+5. Each of you will get a pul request, and will merge your classmate fork. You should not have a conflict. if you do you have instructions in the same markdown on how to deal with it, though things can easily get very omplicated. Accept the merge request from your class mate.
 
 ### GRADING: 
 - On your github account we must be able to see:
-	1. our own repo, and in its history we need to see the merge. 
+	1. your own repo, and in its history we need to see the merge. 
 
 	2. your fork of your class mate repo and the changes you made to their file in its history
 
