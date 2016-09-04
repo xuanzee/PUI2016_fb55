@@ -97,7 +97,7 @@ Now go online to your new github repo, and make changes directly to the online v
 
 ![Alt text](lab1_imgs/Lab1_edit.png)
 
-and make some local changes as well on your machine
+and make some local changes as well on your machine.
 
 ```
 echo  "this is gonna go wrong..." >> myfirstfile.txt 
@@ -106,7 +106,8 @@ git push
 ```
 
 ### Congratulations: you got your first merge conflict! 
-## To fix a nerge conflict  
+
+## To fix a merge conflict  
 pull the changes over first.
 
 ```
