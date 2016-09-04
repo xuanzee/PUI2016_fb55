@@ -189,29 +189,29 @@ ______________________________________________________________
 
 ## Dealing with a conflicting merge
 
-###If you change _a different line_ than the one your friend changed, the merge should work.
+If you change _a different line_ than the one your friend changed, the merge should work.
 If you change _the same line_ changed by someone working on the master repository then the merge will cause a conflict. Github will warn you when you submit the pull request, and the admin of the master needs to solve the conflict. 
 
 ![Alt text](lab1_imgs/Lab1_mergeConflict.png)
 
-### Follow the instructions to fix the merge online, but note: where github says to resolve the merge and upload the changes to Github there are a few implicit steps. I am spelling them below. Github will have instructions similar to:
+Follow the instructions to fix the merge online, but note: where github says to resolve the merge and upload the changes to Github there are a few implicit steps. I am spelling them below. Github will have instructions similar to:
 
   ```
   git checkout -b gdobler-master master
   git pull https://github.com/gdobler/gittest_fbianco.git master
   ```
-### Edit the files as needed. Then the next two lines are implicitly assumed in the Github directions.
+Edit the files as needed. Then the next two lines are implicitly assumed in the Github directions.
 
   ```
   git add myfirstfile.txt 
   git push origin gdobler-master
   ```
-### Now continue following the directions, and as you go online you will see the new branch of your repository (the version you just changed, and you will be able to merge the original branch (Master) and the new one (gdobler-master).
+Now continue following the directions, and as you go online you will see the new branch of your repository (the version you just changed, and you will be able to merge the original branch (Master) and the new one (gdobler-master).
 Things can get very complicated here.... if you are confused you are not alone!
 
 ![Alt text](lab1_imgs/git.png)
 
 ## Maintain the fork up to date and synced with the master
 
-###follow the instructions here
+Follow the instructions here:
 https://help.github.com/articles/syncing-a-fork/
