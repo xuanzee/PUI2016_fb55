@@ -2,7 +2,7 @@
 ##lets start on your bash shell
 ##crete a directory
 
-![Alt text](lab1_imgs/Screen Shot 2015-09-02 at 1.17.55 AM.png)
+![Alt text](lab1_imgs/Lab1_mkdir.png)
 
 ```
 mkdir gittest_fbianco
@@ -51,11 +51,11 @@ git push
 ##why did you get an error message?? because you have not told this repo where in the cloud to look for its remote version
 
 #first go online and create a repository. 
-![Alt text](lab1_imgs/Screen\ Shot\ 2015-09-02\ at\ 1.53.34\ AM.png)
+![Alt text](lab1_imgs/Lab1_newRepo.png)
 
-![Alt text](lab1_imgs/Screen Shot 2015-09-02 at 2.04.06 AM.png)
+![Alt text](lab1_imgs/Lab1_repoName.png)
 
-![Alt text](lab1_imgs/Screen Shot 2015-09-02 at 2.04.21 AM.png)
+![Alt text](lab1_imgs/Lab1_pushRepo.png)
 
 ##then follow the directions in the image above (use the appropriate URL in the command below)
 
@@ -92,9 +92,9 @@ git push
 
 ##now go online to your new github repo, and make changes directly to the online version of the file online
 
-![Alt text](lab1_imgs/Screen Shot 2015-09-02 at 2.11.31 AM.png)
+![Alt text](lab1_imgs/Lab1_file.png)
 
-![Alt text](lab1_imgs/Screen Shot 2015-09-02 at 2.14.17 AM.png)
+![Alt text](lab1_imgs/Lab1_edit.png)
 
 ##and make some local changes as well on your machine
 
@@ -115,7 +115,7 @@ git pull
 ```
 emacs myfirstfile.txt 
 ```
-![Alt text](lab1_imgs/Screen Shot 2015-09-02 at 2.22.03 AM.png)
+![Alt text](lab1_imgs/Lab1_vim.png)
 
 #...
 
@@ -139,7 +139,8 @@ git stash
 
 ##then clone it: the URL was given to you online on your fork page 
 
-![Alt text](lab1_imgs/Screen Shot 2015-09-02 at 2.29.58 AM.png)
+![Alt text](lab1_imgs/Lab1_fork.png)
+![Alt text](lab1_imgs/Lab1_clone.png)
 
 ```
 cd ../
@@ -159,8 +160,8 @@ git push
 
 ##go online to your fork, check the changes, request a merge
 
-![Alt text](lab1_imgs/Screen Shot 2015-09-02 at 1.21.46 AM.png)
-
+![Alt text](lab1_imgs/Lab1_pullRequest.png)
+![Alt text](lab1_imgs/Lab1_createPull.png)
 
 #back to your own repo...
 ##check your email: you will find the merge request from your new friend!
