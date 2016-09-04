@@ -88,7 +88,12 @@ for the new set up to be incorporated in your environment. However, every new ba
 ### GRADING: 
 We will grade you based on the README file you create in the github directory as described above. The screen shots need to show the appropriate lines in the .bashrc and that running the commands takes you to the right directory.
 
-## Assignment 3 - Extra Credit. This may be hard, but figuring it out will greatly help you get the most out of the next several lectures. We keep track of your EC assignments and they will help your final grade. This homework is a notebook: this is the standard format of the homeworks in the future. To get full points your notebook must
+![Screenshot 1 Assignment 2: my .bashrc](HW1_SS1.png)
+![Screenshot 2 Assignment 2: my succesfull commands using $PUI2016 and the pui2016 alias](HW1_SS2.png)
+
+## Assignment 3 - Extra Credit. 
+
+##This may be hard, but figuring it out will greatly help you get the most out of the next several lectures. We keep track of your EC assignments and they will help your final grade. This homework is a notebook: this is the standard format of the homeworks in the future. To get full points your notebook must
 ## - be rendered (e.g. plots must be visible) so that we see what you intended to turn in
 ## - run: the TA must be able to download your notebook and run it without error. Failing to run will cost you 25% of the grade! 
 
