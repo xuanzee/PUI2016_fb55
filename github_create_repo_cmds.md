@@ -206,7 +206,11 @@ Edit the files as needed. Then the next two lines are implicitly assumed in the 
   git add myfirstfile.txt 
   git push origin gdobler-master
   ```
-Online you will see __your own__ pull request: the request to merge your two branches. Follow the instructions online.
+Online you will see __your own__ pull request: 
+
+![Alt text](lab1_imgs/Lab1_branchMerge.png)
+
+This is the request to merge your two branches. Follow the instructions online.
 Things can get very complicated here with merges and conflicts.... if you are confused you are not alone!
 
 ![Alt text](lab1_imgs/git.png)
