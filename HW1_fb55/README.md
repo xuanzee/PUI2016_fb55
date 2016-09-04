@@ -47,29 +47,29 @@ accept the merge request from your class mate.
 1. Generate a directory on compute called PUI2016_\<netID>. 
 
 2. Create an environmental variable on your compute account called PUI2016 that points to the directory PUI2016_<netID> by its full directory path: starting with /home [/home on a linux box, and with /Users on a mac if you want to replicate it on your machine] so that typing 
-
-		echo $PUI2016 
-
+	```
+	echo $PUI2016 
+	```
 returns the full path to the directory. Save  it in the .bashrc [.bashrc for (linux) or .bash_profile (OS X) if you want to replicate it on your machine] so that every time you open a new terminal the terminal knows what the $PUI2016 environmental variable (env var) is set to. To log into compute, as you know, you want to run the command 
-		
-		ssh -X -A -t <netID>@gw.cusp.nyu.edu ssh -A -X compute 
-		
+	```
+	ssh -X -A -t <netID>@gw.cusp.nyu.edu ssh -A -X compute 	
+	```
 on your terminal. Alternatively you can log in with the remote desktop into the green environment, and open a shell there.
 
 3. Create an alias such that typing 
-
- 		pui2016 
- 		
+ 	```
+	pui2016 
+	```
 takes you to that directory. The alias must use the 'cd' command, and the env var $PUI2016 to do so. 
 
 4. Take a screenshot of your .bashrc file so that we can see the alias and env var you created. 
 
-6. Type this series of commands on the terminal:
-
-		pwd
-		pui2016
-		pwd
-
+6. Type this series of commands on the terminal:	
+	```
+	pwd
+	pui2016
+	pwd
+	```
 Take a screenshot of your terminal that shows this series of commands and their output. 
 
 7. Once your environment is set up, go to github online and CREATE A NEW GITHUB REPO CALLED PUI2016_\<netID> ( this for me would be PUI2016_fb55: https://github.com/fedhere/PUI2016_fb55 ). Follow the github directions to create a repository on the command line on your local machine (https://help.github.com/articles/creating-a-new-repository/).  Notice that in this case you are working in the reverse order compared to the lab: you create the first instance of the repository on the remote server (on the web) and then you create a local repo to link to it on your machine. Follow the steps indicated by github to create the repo, a README.md file, and to link the online and the local repos. 
@@ -80,8 +80,9 @@ Take a screenshot of your terminal that shows this series of commands and their 
 Remember that you also need to upload the images in your remote directory for them to be displayed in your README! just like any file you add them by git add and git commit, git push.
 
 NOTE: after you modify your .bashrc or .bash_profile you will have to rerun it:
-
-		source .bashrc 
+	```
+	source .bashrc 
+	```
 for the new set up to be incorporated in your environment. However, every new bash terminal you open will automatically read the .bashrc/.bash_profile and know about your new alias/env variables
 
 ### GRADING: 
