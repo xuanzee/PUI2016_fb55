@@ -119,18 +119,20 @@ emacs myfirstfile.txt
 
 #...
 
-##now add the file again and commit. NOTE: the commit has to be global. i.e. you cannot use git commit myfirstfile.txt and commit only that right now: you have to commit everything.
+##now add the file again and commit. (NOTE: the commit has to be global. i.e. you cannot use git commit myfirstfile.txt and commit only that right now: you have to commit everything.)
 
 ```
 git add myfirstfile.txt 
 git commit 
+git push
 ```
 
-##NOTE: you could also have stashed (thrown away) your changes when you got the error message
+####(NOTE: you could also have stashed (thrown away) your changes when you got the error message
 
 ```
 git stash
 ```
+### which, again, would throw away all the changes you had just made and committed, so be careful)
 
 #now let's mess with someone else's repo! the lady or gentelman to your left will do.
 ##go online and fork your neighbor's repo
