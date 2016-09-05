@@ -3,15 +3,15 @@
 This repository contains the assignments for NYU CUSP Principles of Urban Informatics 2016. 
 Check here for the new assignments, and for the solutions to be posted.
 
-Welcome to CUSP and to Principles of Urban Informatic!
+Welcome to CUSP and to Principles of Urban Informatics!
 In my class I expect to see a supportive, collaborative attitude from all of you, to assure we maintain and foster a learning environment that leads to rigor, excellence, and happiness.  
 
 _At times you will have a hard time figuring out the solutions to problems. Remember that 
 we admitted you because we believed you would have a positive influence on the class, 
 and that being at CUSP can fulfill your potential as an Urban Scientist. 
 Don't worry about how much you already know, especially do not compare it to what other students know. 
-You may have the wrong perception of your skills, and of the skills of your classmates, and your strengths and the strengthen of your background may lie in another set of skills, just as important for an Urban Scientist. 
-We are here to help you develop the skills you do not yet have and strengthten the skills you already have. 
+You may have the wrong perception of your skills, and of the skills of your classmates, and your strengths and the strength of your background may lie in another set of skills, just as important for an Urban Scientist. 
+We are here to help you develop the skills you do not yet have and strengthen the skills you already have. 
 You are here because we want you to be here and believe in your potential._
 
 ### GRADING GUIDELINES
