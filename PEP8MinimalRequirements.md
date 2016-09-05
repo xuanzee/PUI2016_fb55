@@ -21,10 +21,10 @@ The full list of PEP8 style guidelines is far longer https://www.python.org/dev/
   ```
   rzp = ...
   ```
-   or even worse:
-   ```
-   a = ...
-   ```
+  or even worse:
+  ```
+  a = ...
+  ```
   that way we can read your code if needed and understand what you did. That may save 
   you if your code does not run for silly reasons: if we can fix it we may award partial 
   points (if the reason is silly enough). 
@@ -54,17 +54,17 @@ The full list of PEP8 style guidelines is far longer https://www.python.org/dev/
   	
 - if you use the try/except syntx name your allowed exceptions:
 
-  	```
-  	try: 
-  		do_blah()
-  	except ValueError, IndexError:        <or wwhatever exceptions you want to allow>
-		pass <or whatever you need to do>
-   	```
+  ```
+  try: 
+ 	do_blah()
+  except ValueError, IndexError:        <or wwhatever exceptions you want to allow>
+	pass <or whatever you need to do>
+  ```
   instead of: 
-  	```
-   	try: 
-    		do_blah()
-  	except:
-		pass
-  	```
+  ```
+  try: 
+    do_blah()
+  except:
+    pass
+  ```
 - indent by 4 spaces, not by tabs
