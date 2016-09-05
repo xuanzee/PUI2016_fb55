@@ -10,7 +10,7 @@ _At times you will have a hard time figuring out the solutions to problems. Reme
 we admitted you because we believed you would have a positive influence on the class, 
 and that being at CUSP can fulfill your potential as an Urban Scientist. 
 Don't worry about how much you already know, especially do not compare it to what other students know. 
-You may have the wrong perception of your skills, and of the skills of your classmates, and your strengths and the strengths of your background may lie in another set of skills, just as important for an Urban Scientist. 
+You may have the wrong perception of your skills, and of the skills of your classmates, and your strengths and the strengthen of your background may lie in another set of skills, just as important for an Urban Scientist. 
 We are here to help you develop the skills you do not yet have and strengthten the skills you already have. 
 You are here because we want you to be here and believe in your potential._
 
