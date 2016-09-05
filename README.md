@@ -3,6 +3,17 @@
 This repository contains the assignments for NYU CUSP Principles of Urban Informatics 2016. 
 Check here for the new assignments, and for the solutions to be posted.
 
+Welcome to CUSP and to Principles of Urban Informatic!
+In my class I expect to see a supportive, collaborative attitude from all of you, to assure we maintain and foster a learning environment that leads to rigor, excellence, and happiness.  
+
+_At times you will have a hard time figuring out the solutions to problems. Remember that 
+we admitted you because we believed you would have a positive influence on the class, 
+and that being at CUSP can fulfill your potential as an Urban Scientist. 
+Don't worry about how much you already know, especially do not compare it to what other students know. 
+You may have the wrong perception of your skills, and of the skills of your classmates, and your strengths and the strengths of your background may lie in another set of skills, just as important for an Urban Scientist. 
+We are here to help you develop the skills you do not yet have and strengthten the skills you already have. 
+You are here because we want you to be here and believe in your potential._
+
 ### GRADING GUIDELINES
 - Each HW must be turned in as a directory in PUI2016_\<netID>.
 - The directory  HW\<hw_number>\_\<netID> must have a README.md which who was in the group that the student worked in and states the student's participation. No penalty if the student declairs not to have had any contribution but to have jut followed and learned. However __missing the README.md, missing the statement about who the student worked with and what they did, or inconsistencies between the statements of students within the group that cannot be easily reconceiled by asking will costs them 10% of the grade__.
