@@ -114,14 +114,16 @@ pull the changes over first.
 git pull
 ```
 
-Edit the file removing the lines starting with \>\>, \<\<, and ==, and decide what you want the file to look like to solve the conflict
+Edit the file removing the lines starting with \>\>, \<\<, and ==, and decide what you want the file to look like to solve the conflict. I will use the editor _emacs_, but you can use whatever you like to edit the file (e.g. jupyter, or the mac text editor or whatever) 
 
 ```
 emacs myfirstfile.txt 
 ```
-![Alt text](lab1_imgs/Lab1_vim.png)
+![Alt text](lab1_imgs/Lab1_emacs.png)
 
-make the necessary changes...
+make the necessary changes. _whatever changes you decide upon you must remove the lines starting with >>>>, <<<<, and =====!_
+
+![Alt text](lab1_imgs/Lab1_emacs_solved.png)
 
 Now add the file again and commit. 
 (NOTE: the commit has to be global. i.e. you cannot use git commit myfirstfile.txt and commit only that right now: you have to commit everything.)
