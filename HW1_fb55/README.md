@@ -17,7 +17,7 @@ http://moscow.sci-hub.bz/4d3cf57483ccf211f66cad18440023cd/10.1126%40science.aaa6
 
 ### Finish the lab started in the first lab session if you have not in class:
 https://github.com/fedhere/PUI2016_fb55/blob/master/Lab1_fb55/githubCreateRepoCmds.md
-At the end you should have a repository set up on your local machine (or on compute) as well as on your github account named gittest_\<netID>, with a single file in it named myfirstfile.txt, and you should have a resolved merge conflict. Because your repo is public we can access it, and see the history of your file, and the conflict in it. If you fell behind, please take yourself to this point, and feel free to work with others, but remember that it is your responsibility to learn, and be able to reproduce by yourself the work that you do in groups. 
+At the end you should have a repository set up on your local machine (or on [compute](https://github.com/fedhere/PUI2016_fb55/blob/master/computationalResources.md)) as well as on your github account named gittest_\<netID>, with a single file in it named myfirstfile.txt, and you should have a resolved merge conflict. Because your repo is public we can access it, and see the history of your file, and the conflict in it. If you fell behind, please take yourself to this point, and feel free to work with others, but remember that it is your responsibility to learn, and be able to reproduce by yourself the work that you do in groups. 
 
 ### Work on a fork:
 
