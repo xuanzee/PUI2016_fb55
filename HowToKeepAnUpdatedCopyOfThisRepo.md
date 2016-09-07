@@ -21,5 +21,5 @@ In which case you want to keep it synchronized following these instructions to
  _If you have a fork, you can make changes and request me to embrace the changes with a __pull request__. 
  If you see a mistake (there are many of course) and you want to propose a change you can submit a pull request, 
  but be very clear about the change and it motivation in the description of your pull request, 
- otherwise I will likely dismiss it as something you did accidentally._
+ otherwise I will likely dismiss it as something you did accidentally.
  
