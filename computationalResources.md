@@ -4,7 +4,7 @@ You can see all the CUSP computational resources [here](https://datahub.cusp.nyu
 
 If you scroll down you will see the specifications for _compute_. The full path is _compute.cusp.nyu.edu_.
 
-Instructions to access _compute_ are [here](https://datahub.cusp.nyu.edu/computing.html#computing_resources)
+Instructions to access _compute_ are [here](https://datahub.cusp.nyu.edu/computing.html#accessing_the_workspace)
 
 The easiest way is to access it with _ssh_, if you have a machine with a terminal (e.g. if your laptop is a mac) by typing
 
