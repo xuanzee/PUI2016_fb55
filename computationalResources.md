@@ -13,7 +13,7 @@ The easiest way is to access it with _ssh_, if you have a machine with a termina
     ```
     
 using your cuspid (typically the same as your netID), or by accessing the CUSP Data Facilty Green Environment with your remote desktop and using the compute shell there:
-![](computeShell.png)
+![](ScreenShots/computeShell.png)
 
 Similar instructions are also in the [slides](https://github.com/fedhere/UInotebooks/tree/master/slides) (slide 38 and 39), and you can contact the [DataFacilty](https://datahub.cusp.nyu.edu/services.html) with access issues.
 
