@@ -9,7 +9,7 @@ tells you what the directory you are working in is.
 Many people (like me) set up their prompt to indicate the path to the present working directory. 
 Note the '~' symbol in my prompt. That is a symbol indicateing your home directory.
     
-![pwd](pwd.png "pwd")
+![pwd](ScreenShots/pwd.png "pwd")
     
 ```
 cd
@@ -20,7 +20,7 @@ lets you move to a directory_
 - cd - (minus sign) takes you to the directory where you were before
 - cd <path> takes you to <path> where <path> is the full or relative path to a directory (relative means everything after the directory you are already in; absolute means starting with the original directory in the file system. In this case "/home". So I went to "/home/fbianco/..." which is equivalent to "~/..."
 
-![cd](cd.png "cd")
+![cd](ScreenShots/cd.png "cd")
 
     
 ```
@@ -36,7 +36,7 @@ lists the content a directory
 ls Screen* 
 ```
 
-![ls](ls.png "ls")
+![ls](ScreenShots/ls.png "ls")
 
 
 lists all files in the pwd starting with "Screen"
@@ -48,7 +48,7 @@ mkdir <dir>
     
 creates a directory. It requires the name of the directory <dir> as argument.
 
-![mkdir](mkdir.png "mkdir")
+![mkdir](ScreenShots/mkdir.png "mkdir")
 
 ```
 touch <file>
@@ -57,7 +57,7 @@ touch <file>
 creates a file <file>. The file created is empty. 
 It also changes the timestamp of a file, without changing the file. 
 
-![touch](touch.png "touch")
+![touch](ScreenShots/touch.png "touch")
 
     
 ```
@@ -69,7 +69,7 @@ copies a file
 - if the second argument is not an existing directory it is interpreted as the destination name, and the file is copied to a file by that name, the directory is copied to a directory by that name
 - if the second argument is the path to an existing directory a copy of the file/directory is deposited in that directory. 
 - if the first argument is a directory it requires you to add "-r" to do it recursively (even if the directory is empty!) 
-![cp](cp.png "cp")
+![cp](ScreenShots/cp.png "cp")
 
     
 ```
@@ -79,7 +79,7 @@ mv
 moves a file
 Same behavior as cp, but removes the original file. 
     
-![mv](mv.png "mv")
+![mv](ScreenShots/mv.png "mv")
 
 ```
 rm
@@ -88,7 +88,7 @@ rm
 removes a file
 - the argument(s) is(are) the file(s) to be removed. THIS CANNOT BE UNDONE
 - if the argument is a directory you must add "-r" to demove the content of the directory "recursively" (even if the directory is empty!)
-![rm](rm.png "rm")
+![rm](ScreenShots/rm.png "rm")
 
     
 ```
@@ -121,7 +121,7 @@ tail
     
 same as head but shows the bottom of the file
 
-![echo head tail](echo_head_tail.png "echo head tail")
+![echo head tail](ScreenShots/echo_head_tail.png "echo head tail")
 
 
 ```
@@ -133,7 +133,7 @@ shows all files in the pwd (or a given path) containing a given string
 - arguments: the string to look for
 - the files where to look. e.g. "*" means everywhere in the pwd
 - it prints to standard output the file name, ":", the entire line where the content is found.
-![grep](grep.png "grep")
+![grep](ScreenShots/grep.png "grep")
 
 
 
