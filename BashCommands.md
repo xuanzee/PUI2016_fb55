@@ -200,8 +200,16 @@ ssh -X -A -t fbianco@gw.cusp.nyu.edu ssh -A -X compute
 ```
 
 
+# Note on _aliases_ and _environmental variables_
+An __alias__ is a word that stands for a command in your shell. Typing that word (of your choice) will actually run the command. So an alias has to be associated to an executable, whether it is a command like "cd", or a python code that you wrote, but it has to be an executable. 
 
+An __environmental variable__ is a variable which is known to your "environment" (i.e. basically the machine where you are working in, with the default behavors that it has when you are working in it). It is NOT an executable, but just a variable. It can be associated to an object, for example a file, or a directory. When you want to use it. You use it in the context of a command: for example if your environmental variable PUI2016 is set to point to the directory /home/fbianco/UI/PUI2016_fb55 (assuming that directory exists) then you can use it to go to that directory by passing it to the command cd as follows:
 
+```
+cd $PUI2016
+```
+
+now notice I used the "$" sign: that tells the teminal that when I say PUI2016 I really mean the _variable_ PUI2016, and therefore I mean what is associated to it (in this case the directory /home/fbianco/UI/PUI2016_fb55). Otherwise it will look for a directory called just PUI2016 to be in the place where I issue the command (in the present working directory) to go there, and tell me there is no such place if that directory does not exist. 
 
 
 
