@@ -129,18 +129,17 @@ Working code but wrong output format (but correct content) will earn 50% of the 
 
 Work on [compute](https://github.com/fedhere/PUI2016_fb55/blob/master/computationalResources.md). Choose a [dataset within the CUSP data facility (DF)](https://datahub.cusp.nyu.edu/dataset) that is available in CSV format (look at the format labels in the list of datasets). Chose one that has _at least_ 2 __numerical value__ columns. __DO NOT DOWNLOAD IT__: you must access it throught compute directly from the DF!! The data location may be stated in the description of the dataset, which you access by clicking the dataset, and may be stated in full under __Cusp Location__ (e.g. /gws/open/NYCOpenData/nycopendata/data/5b3a-rs48), or sometimes indicated by the __Data ID__	(e.g. uedp-fegm), in which case the first part of the path /gws/open/NYCOpenData/nycopendata/data/ is implicit.
 
-1. Fire off a Jupyter notebook with Jupyter Hub --[https://datahub.cusp.nyu.edu/documents/guides/Jupyter_Notebook_from_your_browser_Mac.pdf) for Mac and Linux and [here](https://datahub.cusp.nyu.edu/documents/guides/Jupyter_Notebook_from_your_browser_Windows.pdf) for Windows--
-and switch to Kernel PUI2016_Python2 or PUI2016_Python3 kernel from the Jupyter dropdown menu under Kernels -> Change Kernel.
-
-2. Check that an environmental variable DFDATA that points to the data facility location /gws/open/NYCOpenData/nycopendata/data/.
+1. Fire off a Jupyter notebook with Jupyter Hub --[here](https://datahub.cusp.nyu.edu/documents/guides/Jupyter_Notebook_from_your_browser_Mac.pdf) for Mac and Linux and [here](https://datahub.cusp.nyu.edu/documents/guides/Jupyter_Notebook_from_your_browser_Windows.pdf) for Windows--
+and switch to the Kernel PUI2016_Python2 or PUI2016_Python3 from the Jupyter dropdown menu under Kernels -> Change Kernel.
 
    Write a Jupyter Notebook on compute. This will require you to use the JupyterHub ([instructions here](https://datahub.cusp.nyu.edu/documents/guides/Jupyter_Notebook_from_your_browser_Mac.pdf) ). Write a notebook that:
 
-3. Use pandas to read in the CSV file from the DF as a dataframe. The CSV file must have at least 2 numerical value columns.
+2. Check that an environmental variable DFDATA exists and that it points to the data facility location /gws/open/NYCOpenData/nycopendata/data/.
+3. Use pandas to read in the CSV file from the DF into a pandas dataframe. The CSV file must have at least 2 numerical value columns.
 4. Display the top few rows of the DF in your notebook. This table __must be rendered__.
-5. Remove all but 2 _numerical values_ columns of your choice (you can use the drop method in the dataframe) 
+5. Remove all but 2 _numerical values_ columns of your choice (you can use the drop method of the dataframe, like we did in the class examples.) 
 6. Display the reducted dataframe. This table __must be rendered__.
-7. Plot the columns one against the other in a scatter plot (usual rules for plotting apply, see [Grading Guidelines](https://github.com/fedhere/PUI2016_fb55/blob/master/README.md) and the [instruction notebooks for HW1 Extra Credit](https://github.com/fedhere/PUI2016_fb55/blob/master/HW1_fb55/HW1_3_fb55.ipynb), part 3, for more detailed hints on how to display your rendered plots. The plot __must be rendered__.
+7. Plot the columns one against the other in a scatter plot using the datafraome plot method, as we did in class (usual rules for plotting apply, see [Grading Guidelines](https://github.com/fedhere/PUI2016_fb55/blob/master/README.md) and the [instruction notebooks for HW1 Extra Credit](https://github.com/fedhere/PUI2016_fb55/blob/master/HW1_fb55/HW1_3_fb55.ipynb), part 3, for more detailed hints on how to display your rendered plots, and the [Lab2](https://github.com/fedhere/PUI2016_fb55/blob/master/Lab2_fb55) and [Class notebooks](http://github.com/fedhere/UInotebooks/blob/master/dataWrangling) examples on how to use the dataframe plot modules. The plot __must be rendered__.
 
 ### GRADING: 
 You must use the environment variable.
