@@ -134,7 +134,7 @@ and switch to Kernel PUI2016_Python2 or PUI2016_Python3 kernel from the Jupyter 
 
 2. Check that an environmental variable DFDATA that points to the data facility location /gws/open/NYCOpenData/nycopendata/data/.
 
-Write a Jupyter Notebook on compute. This will require you to use the JupyterHub ([instructions here](https://datahub.cusp.nyu.edu/documents/guides/Jupyter_Notebook_from_your_browser_Mac.pdf) ). Write a notebook that:
+   Write a Jupyter Notebook on compute. This will require you to use the JupyterHub ([instructions here](https://datahub.cusp.nyu.edu/documents/guides/Jupyter_Notebook_from_your_browser_Mac.pdf) ). Write a notebook that:
 
 3. Use pandas to read in the CSV file from the DF as a dataframe. The CSV file must have at least 2 numerical value columns.
 4. Display the top few rows of the DF in your notebook. This table __must be rendered__.
