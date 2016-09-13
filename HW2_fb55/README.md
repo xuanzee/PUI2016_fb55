@@ -15,9 +15,10 @@ This homework is based on assignments by Prof. Vo, who is a specialist in transp
 
   
 MTA is using the SIRI (Service Interface for Real Time Information) API to serve their data in both XML and JSON format. I want you to use JSON for its increasing popularity in data access API over the web, and because it is a very natural format in Python, since it maps identically to a Python dictionary. 
-Information on the vehicle monitoring stream is available [here](http://bustime.mta.info/wiki/Developers/SIRIVehicleMonitoring)
+Information on the vehicle monitoring stream is available [here](http://bustime.mta.info/wiki/Developers/SIRIVehicleMonitoring).
+
 For example, using your key, you can retrieve all vehicle information for a bus line, e.g. B52, by
-accessing the following [URL](http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=YOUR_KEY&VehicleMonitoringDetailLevel=calls&LineRef=B52)
+accessing the following URL http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=YOUR_KEY&VehicleMonitoringDetailLevel=calls&LineRef=B52 after replacing YOUR_kEY in the URL string with your own API key.
 
 ### IMPORTANT NOTE:
 The BusTime API server strictly enforces users to issue only 1 request per 30
