@@ -14,6 +14,8 @@ You may have the wrong perception of your skills, and of the skills of your clas
 We are here to help you develop the skills you do not yet have and strengthen the skills you already have. 
 You are here because we want you to be here and believe in your potential._
 
+Respect the [NYU and CUPS integrity academic integrity rules](https://docs.google.com/a/nyu.edu/document/d/1xGQjUPBiZJzxz84VK14D2EaWJEYH91DJxQ7vPiWPMkI/edit?usp=sharing) at all times! 
+
 ### GRADING GUIDELINES
 - Each HW must be turned in as a directory in PUI2016_\<netID>.
 - The directory  HW\<hw_number>\_\<netID> must have a README.md which who was in the group that the student worked in and states the student's participation. No penalty if the student declairs not to have had any contribution but to have jut followed and learned. However __missing the README.md, missing the statement about who the student worked with and what they did, or inconsistencies between the statements of students within the group that cannot be easily reconceiled by asking will costs them 10% of the grade__.
