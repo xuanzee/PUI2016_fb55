@@ -1,6 +1,15 @@
 # PUI2016 HW 2.
 
-## Write scripts to stream real-time bus data from MTA through the MTA Bus Time interface. In order to access this data, you must first request an API key from MTA. 
+## ASSIGNED READING:
+
+- [Appendix A](http://greenteapress.com/thinkpython/html/thinkpython021.html) of _Think Python_ by Allen Downey (2012)
+  The full PDF and HTML versions of the book can be found [here](http://greenteapress.com/wp/think-python/)
+
+- The markdown I prepared with tips on how to ask, and answer a coding or computational question: [PUI2016_fb55/blob/master/HowToAskACodingQuestion.md](https://github.com/fedhere/PUI2016_fb55/blob/master/HowToAskACodingQuestion.md)
+
+
+## ASSIGNMENTS:
+### Part 1 & 2: Write scripts to stream real-time bus data from MTA through the MTA Bus Time interface. In order to access this data, you must first request an API key from MTA. 
 
 This homework is based on assignments by Prof. Vo, who is a specialist in transportation and databases, and whome you will meet later in the semester. Please request your API right after class! It may take some time before you get a reply from MTA.
 
@@ -9,6 +18,7 @@ This homework is based on assignments by Prof. Vo, who is a specialist in transp
   receiving an email from MTA within an hour (most of the time within only a few minutes).
   3. The key should be in the form of xxxxx-xxxxx-xxxxx-xxxxx-xxxxx. Please keep this key only to yourself as it would be your authorization token for MTA access and will be in this assignment. 
 
+### Part 3: Use the CUSP data facility and pandas to read a CSV file and mangle the data within it.
 
 ## Submission Info:
 ### You can work in groups, and you are encouraged to. Create a HW2\_\<netID> directory in your PUI2016\_\<netID> repository. Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), and states with whome you worked and what you specifically contributed to.  Submit Assignment 1 and Assignment 2 by pushing the scripts into your PUI2016\_\<netID>/HW2\_\<netID>  repository. You can work on whatever computer you wish to develope these scripts. Work on Assignment 3 in the jupyter environment within CUSP (like you did for UCSL), so you have acces to the Data Facility. Keep in mind that we will look for possible cases of plagiarism, and if the code appears too similar to that of people that you did not work with to be original work (there are automated ways to look for plagiarism in code) *you will be penalized*. 
