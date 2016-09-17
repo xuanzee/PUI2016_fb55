@@ -8,9 +8,9 @@ Instructions to access _compute_ are [here](https://datahub.cusp.nyu.edu/computi
 
 The easiest way is to access it with _ssh_, if you have a machine with a terminal (e.g. if your laptop is a mac) by typing
 
-    ```
-    ssh -X -A -t cuspid@gw.cusp.nyu.edu ssh -A -X compute
-    ```
+```
+ssh -X -A -t cuspid@gw.cusp.nyu.edu ssh -A -X compute
+```
     
 using your cuspid (typically the same as your netID), or by accessing the CUSP Data Facilty Green Environment with your remote desktop and using the compute shell there:
 ![](ScreenShots/computeShell.png)
