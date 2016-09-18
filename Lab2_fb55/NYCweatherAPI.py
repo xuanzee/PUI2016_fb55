@@ -14,5 +14,7 @@ url = "http://api.openweathermap.org/data/2.5/forecast/daily?q=%s&mode=%s&units=
 
 response = urllib2.urlopen(url)
 data = response.read().decode("utf-8")
-json.loads(data)
-print (data)
+
+#use the json.loads method to obtain a dictionary representation of the responose string 
+dataDict = json.loads(data)
+print (dataDict)
