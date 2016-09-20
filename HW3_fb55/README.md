@@ -7,6 +7,10 @@
 
 ## ASSIGNMENTS:
 
+## Submission Info:
+### You can work in groups, and you are encouraged to. Create a HW3\_\<netID> directory in your PUI2016\_\<netID> repository. Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), and states with whome you worked and what you specifically contributed to.  Submit Assignment 1 and Assignment 2 and Assignment 3 by pushing the notebooks into your PUI2016\_\<netID>/HW2\_\<netID>  repository.  Keep in mind that we will look for possible cases of plagiarism, and if the code appears too similar to that of people that you did not work with to be original work (there are automated ways to look for plagiarism in code) *you will be penalized*. 
+
+
 ### Assignment 1: Write an ipython notebook that demonstrates visually in a data-driven way the Central Limit Theorem. 
 A skeleton notebook is [here](https://github.com/fedhere/PUI2016_fb55/blob/master/HW3_fb55/Assignment1.ipynb)
 
@@ -19,8 +23,6 @@ A skeleton notebook is [here](https://github.com/fedhere/PUI2016_fb55/blob/maste
 
 ### Assignment 2: Set up the work for data-driven inference based on CitiBike data. You should, even more than usual, work in groups for this!
 
-## Submission Info:
-### You can work in groups, and you are encouraged to. Create a HW3\_\<netID> directory in your PUI2016\_\<netID> repository. Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), and states with whome you worked and what you specifically contributed to.  Submit Assignment 1 and Assignment 2 by pushing the scripts into your PUI2016\_\<netID>/HW2\_\<netID>  repository. You can work on whatever computer you wish to develope these scripts. Work on Assignment 3 in the jupyter environment within CUSP (like you did for UCSL), so you have acces to the Data Facility. Keep in mind that we will look for possible cases of plagiarism, and if the code appears too similar to that of people that you did not work with to be original work (there are automated ways to look for plagiarism in code) *you will be penalized*. 
 ### I developed an example [here] (https://github.com/fedhere/PUI2016_fb55/blob/master/HW3_fb55/citibikes_gender.ipynb)
 
   
