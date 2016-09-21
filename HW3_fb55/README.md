@@ -22,6 +22,14 @@ A skeleton notebook is [here](https://github.com/fedhere/PUI2016_fb55/blob/maste
  
 __Extra Credit__: FIT a gaussian to the distribution of means            
 
+### GRADING: 
+
+Your notebook must: 
+- generate the distributions, correctly generated for each of the 5 ditributions, all with same mean.
+- display all plots: a scatter plot per distribution and a histogram of all distributions, usual rules for plotting applying: visible and readable axes, title, legend, caption. 
+- each plot must have a caption which describes the plot in terms of Central Limit Theorem
+
+
 ### Assignment 2: Set up the work for data-driven inference based on CitiBike data. You should, even more than usual, work in groups for this!
 
 ### I developed an example [here] (https://github.com/fedhere/PUI2016_fb55/blob/master/HW3_fb55/citibikes_gender.ipynb)
@@ -49,4 +57,4 @@ Your notebook must display
 - the data tables for the reducted datasets (first few columns)
 - the plots for each dataframe, with usual rules for plotting applying: visible and readable axes, title, legend, caption. 
 
-## Assignment 3: Finish z-test but lab and turn it in as a notebook.
+## Assignment 3: Finish z-test lab and turn it in as a notebook (more details in email).
