@@ -61,3 +61,11 @@ You will recieve an email tonight with the name, netid, and github username of a
 ### Grading: 
 
 you will be graded on the validity and depth of your review. 50% of the grade will be on the feed back on the research proposal. Be thorrough (without being offensive of course with your feedback). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. **Notice: I will be grading these assignments, not the TAs**. 
+
+
+
+### Assignment 2: Literature choices of statistical tests
+
+Choose two tests from the forst table in [A. Marengo CSU "When to use what test?" document](http://www.csun.edu/~amarenco/Fcs%20682/When%20to%20use%20what%20test.pdf), one in the top potrion of the chart (chi-sq, t-test, and the ANOVA family of tests) where you are looking for differences between groups, and one in the bottom portion where you are looking for relationships bewteen the dependent and independent variables (correlation, regression, path analysis).
+
+Go to the main web page of the journal [PLOS ONE](http://journals.plos.org/plosone/) and search for articles that use that test (**DO NOT USE THE ARTICLE I USED FOR THE CLASS EXAMPLE:** http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062593)
