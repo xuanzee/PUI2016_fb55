@@ -8,7 +8,7 @@
 ## ASSIGNMENTS:
 
 ## Submission Info:
-### You can work in groups, and you are encouraged to. Create a HW3\_\<netID> directory in your PUI2016\_\<netID> repository. Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), and states with whome you worked and what you specifically contributed to.  Submit Assignment 1, Assignment 2 and Assignment 3 by pushing the notebooks into your PUI2016\_\<netID>/HW2\_\<netID>  repository.  Keep in mind that we will look for possible cases of plagiarism, and if the code appears too similar to that of people that you did not work with to be original work (there are automated ways to look for plagiarism in code) *you will be penalized*. 
+### You can work in groups, and you are encouraged to. Create a HW3\_\<netID> directory in your PUI2016\_\<netID> repository. Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), and states with whome you worked and what you specifically contributed to.  Submit Assignment 1, Assignment 2 and Assignment 3 by pushing the notebooks into your PUI2016\_\<netID>/HW3\_\<netID>  repository.  Keep in mind that we will look for possible cases of plagiarism, and if the code appears too similar to that of people that you did not work with to be original work (there are automated ways to look for plagiarism in code) *you will be penalized*. 
 
 
 ### Assignment 1: Write an ipython notebook that demonstrates visually in a data-driven way the Central Limit Theorem. 
