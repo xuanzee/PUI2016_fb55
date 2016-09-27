@@ -66,6 +66,8 @@ you will be graded on the validity and depth of your review. 50% of the grade wi
 
 ### Assignment 2: Literature choices of statistical tests
 
+Work with one or maximum two more people. 
+
 Choose two tests from the forst table in [A. Marengo CSU "When to use what test?" document](http://www.csun.edu/~amarenco/Fcs%20682/When%20to%20use%20what%20test.pdf), one in the top potrion of the chart (chi-sq, t-test, and the ANOVA family of tests) where you are looking for differences between groups, and one in the bottom portion where you are looking for relationships bewteen the dependent and independent variables (correlation, regression, path analysis).
 
 Go to the main web page of the journal [PLOS ONE](http://journals.plos.org/plosone/) and search for articles that use that test (**DO NOT USE THE ARTICLE I USED FOR THE CLASS EXAMPLE:** http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062593).
@@ -73,3 +75,26 @@ Go to the main web page of the journal [PLOS ONE](http://journals.plos.org/ploso
 Put the name of your tests (one by one) in the search (you can also use the advanced search) and choose a paper that uses the test you selected. Read the relevant portions of the paper (the abstract, and then a search for occurrences of the test name may be sufficient!) and identify what are the Dependent Variables (DV), Independent Variables (IV), and, if applicable, control variables (remember class 1 slides if you forgot), how many they are, and what type they are (categorical, continuous...). 
 
 Write out the number of DV, type of DV, number of IV, type of IV, number of control variables, kind of questions as a [table](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) in your README.md file, filling in the same fields as in the first table in the ["When to use what test?" document](http://www.csun.edu/~amarenco/Fcs%20682/When%20to%20use%20what%20test.pdf). 
+
+### GRADING: 
+
+Your HW4\_\<netID\> README.md should should show, in addition to the usual items (the scope of the homework, the group partecipants, your role in the group work) the two-rows tables explaining the use of two tests.
+
+## Assignment 3 Reproduce the NYC tests for the Hard to Employ programs:
+
+Reproduce the analysis of the Hard to Employ programs for NYC. You should read the relevant portion f the study to make sure you are not just workign mechanically (Chapter 7 of the [original document](https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs.ipynb).
+
+Reproduce the results in cell 2 of Table 2.1 (Ever employed in a CEO transitional job), and cell 10 (Convicted of a felony). Fill in the cells of the scheleton notebook as you are asked to   
+
+Follow the notebook in the HW directory (turn in the python notebook in the HW4_\<netID\> directory
+
+## Grading 
+
+All cells that are markes "for you to do" and that contain missing values should be filled.
+
+The second null hypothesis should be stated.
+
+Both tests, Z and Chisq, should be completed with the with the Convicted of a felony after 3 years data.
+
+The effect of the statistic on the rejection of the Null should be stated in all cases.
+
