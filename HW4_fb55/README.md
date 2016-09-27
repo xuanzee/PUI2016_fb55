@@ -98,3 +98,23 @@ Both tests, Z and Chisq, should be completed with the with the Convicted of a fe
 
 The effect of the statistic on the rejection of the Null should be stated in all cases (both for the original "Ever employed in a CEO transitional job" data and the "Convicted of a felony after 3 years data".
 
+## Assignment 4: Tests of correlation using the scipy package.
+
+Use the following are 3 tests to assess correlation between 2 samples of citibike data:
+- Pearson’s test 
+- Spearman’s test 
+- K-S test
+
+Follow along with the skeleton [notebook](https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/citibikes_compare_distributions.ipynb). 
+
+
+Use: age of bikers for 2 genders. State your result in words in terms of the Null Hypothesis
+Extra Credit: Use the age of bikers in day vs night and assess the correlation/independence of the 2 samples in each case..
+
+## Grading 
+
+The notebook should be completed as the cell by cell instructions indicate.
+
+You should state the Null Hypothesis, according to what you know about the test and the **scipy.stats** package documentation **for that specific function** for all three functions.
+
+You should pu the caluclated statistics and the p-value in the context of null hypothesis rejection in each case.
