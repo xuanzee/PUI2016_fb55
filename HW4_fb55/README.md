@@ -82,7 +82,7 @@ Your HW4\_\<netID\> README.md should should show, in addition to the usual items
 
 ## Assignment 3 Reproduce the NYC tests for the Hard to Employ programs:
 
-Reproduce the analysis of the Hard to Employ programs for NYC. You should read the relevant portion f the study to make sure you are not just workign mechanically (Chapter 7 of the [original document](https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs.ipynb).
+Reproduce the analysis of the Hard to Employ programs for NYC. You should read the relevant portion f the study to make sure you are not just workign mechanically (Chapter 7 of the [original document](https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs.ipynb).)
 
 Reproduce the results in cell 2 of Table 2.1 (Ever employed in a CEO transitional job), and cell 10 (Convicted of a felony). Fill in the cells of the scheleton notebook as you are asked to   
 
@@ -90,11 +90,11 @@ Follow the notebook in the HW directory (turn in the python notebook in the HW4_
 
 ## Grading 
 
-All cells that are markes "for you to do" and that contain missing values should be filled.
+All cells that are markes "for you to do" (or similar...) and that contain missing values should be filled.
 
-The second null hypothesis should be stated.
+The second null hypothesis should be stated (for the Convicted of a felony after 3 years data).
 
 Both tests, Z and Chisq, should be completed with the with the Convicted of a felony after 3 years data.
 
-The effect of the statistic on the rejection of the Null should be stated in all cases.
+The effect of the statistic on the rejection of the Null should be stated in all cases (both for the original "Ever employed in a CEO transitional job" data and the "Convicted of a felony after 3 years data".
 
