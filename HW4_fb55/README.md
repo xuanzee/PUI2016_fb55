@@ -12,24 +12,52 @@ Abstract (mandatory), Introduction (you can skip it if you think the front page 
 Tables and Tables caption (mandatory), Figures and Figure captions (mandatory), Conclusions (mandatory). 
 _You are responsible for reading **and understanding** the content of the reading material_. If anything is not clear, because of language difficulties or any other reason, please ask!
 
-##ASSIGNMENTS:
+## ASSIGNMENTS:
 
-Submission Info:
+### Submission Info:
 
 For Assignment 1: work alone. 
 
 For Assignment 2: work in groups of 2. Strictly no more than 3!
 
 For the rest of the HW you can work in groups, and you are encouraged to. 
-Create a HW4_<netID> directory in your PUI2016_<netID> repository. 
+Create a HW4_\<netID\> directory in your PUI2016_\<netID\> repository. 
 Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), 
 and states with whome you worked and what you specifically contributed to. 
 
 Submit __Assignment 1__ as a pull request markdown file to be added to your classmate repository (see below), 
 
 Submit __Assignment 2__ by including your 2 tables (see below) in the README for the directory 
-and Assignment 3 by pushing the notebooks into your PUI2016_<netID>/HW4_<netID> repository. 
+and Assignment 3 by pushing the notebooks into your PUI2016_\<netID\>/HW4_\<netID\> repository. 
 Keep in mind that we will look for possible cases of plagiarism, 
 and if the code appears too similar to that of people that you did not work with to be original work 
 
 (there are automated ways to look for plagiarism in code) you will be penalized.
+
+### Assignment 1: Review your classmate's Citibike project proposal
+
+You will recieve an email tonight with the name, netid, and github username of a classmate. 
+
+1. check that the class-mate is not already in your group and contact me promptly if they are! By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate.
+
+2. look in the classmate HW3_\<netid\> repo ASAP and identify their submission for the citibike project.
+
+3. Fork their repository, and clone it (you did this in HW1, look at the instructions in  the HW1 [README](https://github.com/fedhere/PUI2016_fb55/blob/master/HW1_fb55/README.md) if you need to refresh your memory)
+
+4. Read it carefully (but do not modify the notebook)! You have to:
+  
+  a. verify that their Null and alternative hypotheses are formulated correctly
+  
+  b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test was not chosen yet)
+  
+  c. CHOOSE A TEST THAT WOULD BE SUITABLE TO TEST THE NULL HYPOTHESIS $H_0$ given the type of data, and the question asked. 
+  You can refer to the slides flowchart of statistical tests for this, or to the CSU cheat-sheet [here](http://www.csun.edu/~amarenco/Fcs%20682/When%20to%20use%20what%20test.pdf)
+  
+5.  Write  your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown **named CitibikeReview_\<netID\>.ms**. 
+
+6. Submit a pull request to the original repository.
+
+
+### Grading: 
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feed back on the research proposal. Be thorrough (without being offensive of course with your feedback). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. **Notice: I will be grading these assignments, not the TAs**. 
