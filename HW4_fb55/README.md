@@ -21,7 +21,7 @@ For Assignment 1: work alone.
 For Assignment 2: work in groups of 2. Strictly no more than 3!
 
 For the rest of the HW you can work in groups of up to 5 as usual, and you are encouraged to. 
-Create a HW4_\<netID\> directory in your PUI2016_\<netID\> repository. 
+Create a HW4\_\<nyuID\> directory in your PUI2016\_\<nyuID\> repository. 
 Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), 
 and states with whome you worked and what you specifically contributed to. 
 
@@ -38,11 +38,11 @@ and if the code appears too similar to that of people that you did not work with
 
 ### Assignment 1: Review your classmate's Citibike project proposal
 
-You will recieve an email tonight with the name, netid, and github username of a classmate. 
+You will recieve an email tonight with the name, nyuID, and GitHub username of two classmate. 
 
-1. check that the class-mate is not already in your group and contact me promptly if they are! By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate.
+1. check that at least one of these class-mates is not already in your group and contact me **promptly** if they both are! By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
 
-2. look in the classmate HW3_\<netid\> repo ASAP and identify their submission for the citibike project.
+2. look in the classmate HW3\_\<netid\> repo ASAP and identify their submission for the citibike project. If you cannot find it contact them immediately!
 
 3. Fork their repository, and clone it (you did this in HW1, look at the instructions in  the HW1 [README](https://github.com/fedhere/PUI2016_fb55/blob/master/HW1_fb55/README.md) if you need to refresh your memory)
 
