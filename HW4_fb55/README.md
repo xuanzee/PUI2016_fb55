@@ -9,7 +9,7 @@ This is a seminal paper that initiated a number of efforts to increase reproduci
 How to read a scientific paper: you do not need to read all of it (generally scientists don't unless the paper is directly connected with their research.)
 On a journal like science the front page of the articleis a synapsis of it. Read that (mandatory). Then go to the body of the article and read:
 Abstract (mandatory), Introduction (you can skip it if you think the front page gave you sufficient understanding), 
-Tables and Tables caption (mandatory), Figures and Figure captions (mandatory), Conclusions (mandatory). 
+Tables and Table captions (mandatory), Figures and Figure captions (mandatory), Conclusions (mandatory). 
 _You are responsible for reading **and understanding** the content of the reading material_. If anything is not clear, because of language difficulties or any other reason, please ask!
 
 ## ASSIGNMENTS:
