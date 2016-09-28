@@ -20,7 +20,7 @@ For Assignment 1: work alone.
 
 For Assignment 2: work in groups of 2. Strictly no more than 3!
 
-For the rest of the HW you can work in groups, and you are encouraged to. 
+For the rest of the HW you can work in groups of up to 5 as usual, and you are encouraged to. 
 Create a HW4_\<netID\> directory in your PUI2016_\<netID\> repository. 
 Include a README.md that briefly summarizes the scope of the homework (so we know you understand what you did), 
 and states with whome you worked and what you specifically contributed to. 
