@@ -36,7 +36,7 @@ Keep in mind that we will look for possible cases of plagiarism,
 and if the code appears too similar to that of people that you did not work with to be original work 
 (there are automated ways to look for plagiarism in code) you will be penalized.
 
-### Assignment 1: Review your classmate's Citibike project proposal
+## Assignment 1: Review your classmate's Citibike project proposal
 
 You will recieve an email tonight with the name, nyuID, and GitHub username of two classmate. 
 
@@ -66,7 +66,7 @@ you will be graded on the validity and depth of your review. 50% of the grade wi
 
 
 
-### Assignment 2: Literature choices of statistical tests
+## Assignment 2: Literature choices of statistical tests
 
 Work with one, or maximum two people. 
 
@@ -100,7 +100,7 @@ Reproduce the results in cell 2 of Table 2.1 (_Ever employed in a CEO transition
 
 Turn in your version of the python notebook in the HW4_\<netID\> directory
 
-## Grading 
+### Grading 
 
 All cells that are marked "for you to do" (or similar...) and that contain missing values should be filled.
 
@@ -110,14 +110,14 @@ Both tests, Z and chi-sq, should be completed for the "Convicted of a felony aft
 
 The result of the test in term the rejection of the Null should be stated in all cases (for both tests and both for the original "Ever employed in a CEO transitional job" data and the "Convicted of a felony after 3 years data").
 
-## Assignment 4: Tests of correlation using the scipy package.
+## Assignment 4: Tests of correlation using the scipy package with citibike data.
 
 Use the following are 3 tests to assess correlation between 2 samples of citibike data:
 - Pearson’s test 
 - Spearman’s test 
 - K-S test
 
-Follow along with the skeleton [notebook](https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/citibikes_compare_distributions.ipynb). 
+Follow along with the skeleton [notebook citibikes_compare_distributions.ipynb](https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/citibikes_compare_distributions.ipynb). 
 
 
 Use: age of bikers for 2 genders. State your result in words in terms of the Null Hypothesis
@@ -125,7 +125,7 @@ Use: age of bikers for 2 genders. State your result in words in terms of the Nul
 ### Extra Credit: 
 Use the age of bikers in day vs night and assess the correlation/independence of these 2 samples for each test.
 
-## Grading 
+### Grading 
 
 A notebook should be completed as the cell by cell instructions indicate.
 
