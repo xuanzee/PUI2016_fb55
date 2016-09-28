@@ -28,9 +28,12 @@ and states with whome you worked and what you specifically contributed to.
 Submit __Assignment 1__ as a pull request markdown file to be added to your classmate repository (see below), 
 
 Submit __Assignment 2__ by including your 2 tables (see below) in the README for the directory  into your PUI2016_\<netID\>/HW4_\<netID\> repository. 
+
+Submit __Assignment 3__ and __Assignment 4__ as separate notebooks as usual. 
+
+**There is a lot of homework this week! dont wait until the last minute to start!**]
 Keep in mind that we will look for possible cases of plagiarism, 
 and if the code appears too similar to that of people that you did not work with to be original work 
-
 (there are automated ways to look for plagiarism in code) you will be penalized.
 
 ### Assignment 1: Review your classmate's Citibike project proposal
