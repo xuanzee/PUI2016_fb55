@@ -62,7 +62,7 @@ Your notebook must display
 I am looking for here is: seeing a good Null/alternative hypothesis statement and treatment, with a clear Null and Alternative spelled out AND written out as a formula, and a good interpretation of the Z value you obtain in terms of ability or inability to reject the Null Hypothesis. 
 Here is the forumla
 
-Z ~ (mean(pop) - mean(sample)) / (stdev / sqrt(N))
+$ Z = \frac{\mu_{pop} - \mu_{sample}}{\sigma / \sqrt{N}} $
 
 This is also in the slides attached (in a more readable format).
 
