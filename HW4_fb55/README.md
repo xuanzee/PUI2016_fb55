@@ -52,17 +52,17 @@ You will recieve an email tonight with the name, nyuID, and GitHub username of t
   
   b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test was not chosen yet)
   
-  c. CHOOSE A TEST THAT WOULD BE SUITABLE TO TEST THE NULL HYPOTHESIS $H_0$ given the type of data, and the question asked. 
-  You can refer to the slides flowchart of statistical tests for this, or to the CSU cheat-sheet [here](http://www.csun.edu/~amarenco/Fcs%20682/When%20to%20use%20what%20test.pdf)
+  c. Chose an appropriate test to test _H0_ given the type of data, and the question asked. 
+  You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet [here](http://www.csun.edu/~amarenco/Fcs%20682/When%20to%20use%20what%20test.pdf), of Statistics in a Nutshell.
   
-5.  Write  your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown **named CitibikeReview_\<netID\>.ms**. 
+5.  Write  your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown **named CitibikeReview\_\<netID\>.md**. 
 
 6. Submit a pull request to the original repository.
 
 
 ### Grading: 
 
-you will be graded on the validity and depth of your review. 50% of the grade will be on the feed back on the research proposal. Be thorrough (without being offensive of course with your feedback). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. **Notice: I will be grading these assignments, not the TAs**. 
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. **Notice: I will be grading these assignments, not the TAs**. 
 
 
 
