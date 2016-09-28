@@ -68,9 +68,9 @@ you will be graded on the validity and depth of your review. 50% of the grade wi
 
 ### Assignment 2: Literature choices of statistical tests
 
-Work with one or maximum two more people. 
+Work with one, or maximum two people. 
 
-Choose two tests from the forst table in [A. Marengo CSU "When to use what test?" document](http://www.csun.edu/~amarenco/Fcs%20682/When%20to%20use%20what%20test.pdf), one in the top potrion of the chart (chi-sq, t-test, and the ANOVA family of tests) where you are looking for differences between groups, and one in the bottom portion where you are looking for relationships bewteen the dependent and independent variables (correlation, regression, path analysis).
+Choose two tests from the first table in [A. Marengo CSU "When to use what test?" document](http://www.csun.edu/~amarenco/Fcs%20682/When%20to%20use%20what%20test.pdf), one in the top potrion of the chart (chi-sq, t-test, and the ANOVA family of tests) where you are looking for differences between groups, and one in the bottom portion where you are looking for relationships bewteen the dependent and independent variables (correlation, regression, path analysis).
 
 Go to the main web page of the journal [PLOS ONE](http://journals.plos.org/plosone/) and search for articles that use that test (**DO NOT USE THE ARTICLE I USED FOR THE CLASS EXAMPLE:** http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062593).
 
@@ -78,27 +78,37 @@ Put the name of your tests (one by one) in the search (you can also use the adva
 
 Write out the number of DV, type of DV, number of IV, type of IV, number of control variables, kind of questions as a [table](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) in your README.md file, filling in the same fields as in the first table in the ["When to use what test?" document](http://www.csun.edu/~amarenco/Fcs%20682/When%20to%20use%20what%20test.pdf). 
 
+This is a template for the table. To see how it is written clock on the Raw link to see this README.md in its raw unrendered format.
+
+| **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha **| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|
+ANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categoridcal) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05
+  ||||||||
+  
+
+
 ### GRADING: 
 
-Your HW4\_\<netID\> README.md should should show, in addition to the usual items (the scope of the homework, the group partecipants, your role in the group work) the two-rows tables explaining the use of two tests.
+Your HW4\_\<netID\> README.md should should show, in addition to the usual items (the scope of the homework, the group partecipants, your role in the group work) a two-row tables like the one above explaining the use of two tests in papers published in PLOS One.
 
-## Assignment 3 Reproduce the NYC tests for the Hard to Employ programs:
+## Assignment 3: Reproduce the analysis of the Hard to Employ program in NY:
 
-Reproduce the analysis of the Hard to Employ programs for NYC. You should read the relevant portion f the study to make sure you are not just workign mechanically (Chapter 7 of the [original document](https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs.ipynb).)
+Reproduce the analysis of the Hard to Employ programs for NY. You may want to read the relevant portion of the study to make sure you are not just workign mechanically (Chapter 2 of the [original document](http://www.mdrc.org/sites/default/files/What%20Strategies%20Work%20for%20the%20Hard%20FR.pdf)).
 
-Reproduce the results in cell 2 of Table 2.1 (Ever employed in a CEO transitional job), and cell 10 (Convicted of a felony). Fill in the cells of the scheleton notebook as you are asked to   
 
-Follow the notebook in the HW directory (turn in the python notebook in the HW4_\<netID\> directory
+Reproduce the results in cell 2 of Table 2.1 (_Ever employed in a CEO transitional job_), and cell 10 (_Convicted of a felony_). Fill in the cells of the scheleton [notebook](https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/effectivenes%20of%20NYC%20Post-Prison%20Employment%20Programs.ipynb) as you are asked to.
+
+Turn in your version of the python notebook in the HW4_\<netID\> directory
 
 ## Grading 
 
-All cells that are markes "for you to do" (or similar...) and that contain missing values should be filled.
+All cells that are marked "for you to do" (or similar...) and that contain missing values should be filled.
 
-The second null hypothesis should be stated (for the Convicted of a felony after 3 years data).
+The second null hypothesis should be stated (for the "Convicted of a felony after 3 years" data).
 
-Both tests, Z and Chisq, should be completed with the with the Convicted of a felony after 3 years data.
+Both tests, Z and chi-sq, should be completed for the "Convicted of a felony after 3 years" data.
 
-The effect of the statistic on the rejection of the Null should be stated in all cases (both for the original "Ever employed in a CEO transitional job" data and the "Convicted of a felony after 3 years data".
+The result of the test in term the rejection of the Null should be stated in all cases (for both tests and both for the original "Ever employed in a CEO transitional job" data and the "Convicted of a felony after 3 years data").
 
 ## Assignment 4: Tests of correlation using the scipy package.
 
@@ -111,12 +121,14 @@ Follow along with the skeleton [notebook](https://github.com/fedhere/PUI2016_fb5
 
 
 Use: age of bikers for 2 genders. State your result in words in terms of the Null Hypothesis
-Extra Credit: Use the age of bikers in day vs night and assess the correlation/independence of the 2 samples in each case..
+
+### Extra Credit: 
+Use the age of bikers in day vs night and assess the correlation/independence of these 2 samples for each test.
 
 ## Grading 
 
-The notebook should be completed as the cell by cell instructions indicate.
+A notebook should be completed as the cell by cell instructions indicate.
 
-You should state the Null Hypothesis, according to what you know about the test and the **scipy.stats** package documentation **for that specific function** for all three functions.
+You must state the Null Hypothesis, according to what you know about the test and the **scipy.stats** package documentation **for three scipy.stats function**, corresponding to the three tests.
 
-You should pu the caluclated statistics and the p-value in the context of null hypothesis rejection in each case.
+You must put the caluclated statistics and the p-value in the context of null hypothesis rejection in each case.
