@@ -27,8 +27,7 @@ and states with whome you worked and what you specifically contributed to.
 
 Submit __Assignment 1__ as a pull request markdown file to be added to your classmate repository (see below), 
 
-Submit __Assignment 2__ by including your 2 tables (see below) in the README for the directory 
-and Assignment 3 by pushing the notebooks into your PUI2016_\<netID\>/HW4_\<netID\> repository. 
+Submit __Assignment 2__ by including your 2 tables (see below) in the README for the directory  into your PUI2016_\<netID\>/HW4_\<netID\> repository. 
 Keep in mind that we will look for possible cases of plagiarism, 
 and if the code appears too similar to that of people that you did not work with to be original work 
 
