@@ -20,7 +20,11 @@ you did not work with to be original work (there are automated ways to look for 
 ## Assignment 1: Compare Tests for Goodness of fit (on real data)
 Test whether a gaussian model N($\mu$, $\sigma$) for the age distribution of citibike drivers is a sensible model, 
 or if you can find a better fit with another distribution. 
-Use 2 tests: KS, AD, KL, chisq to do this. Test at least 2 distributions. 
+
+- Use 2 tests: KS, AD, KL, chisq (even though we have not talked about it in detail yet) to do this. 
+
+- Test at the Normal and a least one other distributions (e.g. Poisson, or Binomial, or Chisq, Lognormal.......)
+
 No skeleton: you are on your own!
 
 
