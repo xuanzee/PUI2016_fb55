@@ -43,7 +43,22 @@ Your notebook must:
 You may know that it is estimated that women earn about 78% of men in the same job position.
 You will test if it is true on real income data, and turn your model into a prediction: 
 if you get hired at a certain stipend as a men, what should you expect to make as a woman? 
-Follow the [skeleton noteboo](https://github.com/fedhere/PUI2016_fb55/blob/master/HW5_fb55/genderIncomeBias.ipynb)
+Follow the [skeleton notebook](https://github.com/fedhere/PUI2016_fb55/blob/master/HW5_fb55/genderIncomeBias.ipynb)
+
+Your notebook must: 
+- have all celled filled in as indicated
+
+- properly organize the data
+
+- plot the scatter matrix
+
+- plot the data (female vs male income) as directed
+
+- do and plot a linear regression to the data, only Total Median Income and median income by category
+
+- compare the linear regressions
+
+- have predictions at the end of a salaty for a female, given the corresponding male salary
 
 ## Assignment 3: Practice formulating the null hypothesis 
 
