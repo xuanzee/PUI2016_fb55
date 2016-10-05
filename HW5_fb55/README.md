@@ -1,4 +1,4 @@
-# PUI2016 HW 3.
+# PUI2016 HW 5.
 
 ## ASSIGNED READING:
 
@@ -20,7 +20,11 @@ you did not work with to be original work (there are automated ways to look for 
 ## Assignment 1: Compare Tests for Goodness of fit (on real data)
 Test whether a gaussian model N($\mu$, $\sigma$) for the age distribution of citibike drivers is a sensible model, 
 or if you can find a better fit with another distribution. 
-Use 2 tests: KS, AD, KL, chisq to do this. Test at least 2 distributions. 
+
+- Use 2 tests: KS, AD, KL, chisq (even though we have not talked about it in detail yet) to do this. 
+
+- Test at the Normal and a least one other distributions (e.g. Poisson, or Binomial, or Chisq, Lognormal.......)
+
 No skeleton: you are on your own!
 
 
@@ -43,26 +47,41 @@ Your notebook must:
 You may know that it is estimated that women earn about 78% of men in the same job position.
 You will test if it is true on real income data, and turn your model into a prediction: 
 if you get hired at a certain stipend as a men, what should you expect to make as a woman? 
-Follow the [skeleton noteboo](https://github.com/fedhere/PUI2016_fb55/blob/master/HW5_fb55/genderIncomeBias.ipynb)
+Follow the [skeleton notebook](https://github.com/fedhere/PUI2016_fb55/blob/master/HW5_fb55/genderIncomeBias.ipynb)
+
+Your notebook must: 
+- have all celled filled in as indicated
+
+- properly organize the data
+
+- plot the scatter matrix
+
+- plot the data (female vs male income) as directed
+
+- do and plot a linear regression to the data, only Total Median Income and median income by category
+
+- compare the linear regressions
+
+- have predictions at the end of a salaty for a female, given the corresponding male salary
 
 ## Assignment 3: Practice formulating the null hypothesis 
 
 Formulate the Null hypothesis in words and in formulae for the 4 experiments below:
 
 
-1. Do diets help lose more fat than the exercise? 
+- Do diets help lose more fat than the exercise? 
 
 Experimental setup: you have a test and a control sample.
 
-2. Do American trust the president?
+- Do American trust the president?
 
 POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion poll that asked: “From everything you know about Bill Clinton, does he have the honesty and integrity you expect in a president?” (p. 23).
 Poll surveyed 518 adults and 233, or 0.45 of them answered yes.
 
-3. Effectiveness of nicotine patches to quit smoking. 
+- Effectiveness of nicotine patches to quit smoking. 
 
 Experimental setup: measure cessation rates for smokers randomly assigned to use a nicotine patch versus a placebo patch.
 
-4. Quantify the danger of smoking for pregnant women. 
+- Quantify the danger of smoking for pregnant women. 
 
 Experimemtal setup: measure IQ of children at ages 1, 2, 3, and 4 years of age.
