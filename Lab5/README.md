@@ -18,5 +18,4 @@ but while the offsets can be positive or negative the weights you pass must be p
 It does not make sense to have a negative weight. So you want to use the magnitude (i.e. absolute value) of the offset 
 to weight the importance of your datapoints in the fit.
 **The correct thing to use for the weights in the function is 
-1.0 / np.abs(errors)
-**
+1.0 / np.abs(errors)**
