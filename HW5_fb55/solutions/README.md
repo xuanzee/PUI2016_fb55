@@ -1,11 +1,15 @@
 # Null hypothesis exercise
 
 1.
-**Do diets help lose more fat than the exercise? **
+### Do diets help lose more fat than the exercise? 
 
 Experimental setup: you have a test and a control sample.
 
-*Experiment*: placing a test sample of N people and a control sample of M people under a diet and a control exercise regime respectively for a period of time T . Each group's weight lost $Wl$ is measured as the average of the weight loss of each individual in each group at the end of the experiment (at time T). The average weight loss is $\bar{WL_\mathrm{diet}}$ and for the test and $\bar{WL_\mathrm{exercise}}$ for the control sample.
+*Experiment*: placing a test sample of N people and a control sample of M people under a diet and a control exercise regime respectively for a period of time T . Each group's weight lost 
+$Wl$ 
+is measured as the average of the weight loss of each individual in each group at the end of the experiment (at time T). The average weight loss is 
+$\bar{WL_\mathrm{diet}} $ and for the test and 
+$\bar{WL_\mathrm{exercise}} $ for the control sample.
 
 *Null*: The test sample (on a diet) has lost on average less or the same amount of weight than the control sample (on an exercise regime)
 
@@ -24,7 +28,7 @@ Poll surveyed 518 adults and 233, or 0.45 of them answered yes.
 
 *Null*: The fraction of adults that trust Bill Clinton $P_\mathrm{Trust}$ is grater or equal than the fraction of adults that do not trust him $P_\mathrm{noTrust}$
 
-*Alternative*:  The fraction of adults that trust Bill Clinton ($P_\mathrm{Trust}$) is smaller than the fraction of adults that do not trust him ($P_\mathrm{noTrust}$)
+*Alternative*:  The fraction of adults that trust Bill Clinton ($ P_\mathrm{Trust} $) is smaller than the fraction of adults that do not trust him ($P_\mathrm{noTrust}$)
 
 $H_0$ : $P_\mathrm{Trust} - P_\mathrm{noTrust} >= 0 $
 
