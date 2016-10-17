@@ -21,7 +21,7 @@ $H_a$ : $\bar{WL_\mathrm{diet}} - \bar{WL_\mathrm{exercise}} > 0 $
 
 
 2.
-**Do American trust the president?**
+### Do American trust the president?
 
 POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion poll that asked: “From everything you know about Bill Clinton, does he have the honesty and integrity you expect in a president?” (p. 23).
 Poll surveyed 518 adults and 233, or 0.45 of them answered yes.
@@ -38,7 +38,8 @@ $H_a$ : $P_\mathrm{Trust} - P_\mathrm{noTrust} < 0 $
 
 
 3.
-**Effectiveness of nicotine patches to quit smoking.**
+### Effectiveness of nicotine patches to quit smoking.
+
 *Experiment*: Smokers are smokers randomly assigned to use a nicotine patch versus a placebo patch for a time T. Cessation rates (fraction of smokers that quit smoking) is measured for both groups:
 $Rstop_test$, $Rstop_control$.
 
@@ -52,7 +53,7 @@ $H_a$ : $Rstop_test - Rstop_control > 0 $
 
 
 4.
-**Quantify the danger of smoking for pregnant women.**
+### Quantify the danger of smoking for pregnant women.
 
 Experimemtal setup: measure IQ of children at ages 1, 2, 3, and 4 years of age.
 
