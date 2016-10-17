@@ -64,3 +64,4 @@ $H_0$ : $\bar{IQ_\mathrm{smoker}} - \bar{IQ_\mathrm{non-smoker}} >= 0 $
 
 $H_a$ : $\bar{IQ_\mathrm{smoker}} - \bar{IQ_\mathrm{non-smoker}} < 0 $
 
+
