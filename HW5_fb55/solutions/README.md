@@ -5,7 +5,9 @@
 
 Experimental setup: you have a test and a control sample.
 
-*Experiment*: placing a test sample of N people and a control sample of M people under a diet and a control exercise regime respectively for a period of time T . Each group's weight lost $Wl$ is measured as the average of the weight loss of each individual in each group at the end of the experiment (at time T). The average weight loss is $\bar{WL_\mathrm{diet}}$ and for the test and $\bar{WL_\mathrm{exercise}}$ for the control sample.
+*Experiment*: placing a test sample of N people and a control sample of M people under a diet and a control exercise regime respectively for a period of time T . Each group's weight lost $Wl$ is measured as the average of the weight loss of each individual in each group at the end of the experiment (at time T). The average weight loss is 
+$\bar{WL_\mathrm{diet}} $ and for the test and 
+$\bar{WL_\mathrm{exercise}} $ for the control sample.
 
 *Null*: The test sample (on a diet) has lost on average less or the same amount of weight than the control sample (on an exercise regime)
 
