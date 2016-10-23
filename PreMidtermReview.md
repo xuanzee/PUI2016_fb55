@@ -129,3 +129,9 @@ Do not carry around more data than you need! Do not create a dataframe every tim
 
 
 
+# Figres:
+Every figure must have axis labels, title, and a Caption. It would be silly to lose points for this!! The caption should describe the plot first so that the readers know what they are reading, and then giudes the reader to the conclusions to be drawn from the plot. (This is less standard in journals and reports, but I require you to do it to make sure you make an effor to iterpret the visualizations you create, and that you only have meaningful figures in your work).
+
+Look for example here (I just picked a figure among millions which has a good descriptive graphics): http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165318
+
+
