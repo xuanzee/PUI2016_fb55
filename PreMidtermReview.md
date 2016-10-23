@@ -90,6 +90,8 @@ https://maps.googleapis.com/maps/api/geocode/json?latlng=40.750020,-73.969053&ke
 ```
 (where I replaced by key with XXXX-XXXX-XXXX because one should &**never share API keys** since if they are used illegally the owner of the key is legally responsible!)
 
-**Important!: API usually limits the access to data to a certein number of requests per minute, or per hour, or per day.** Do not simply put API requests in a for look and just hammer away till you get it right! Do not submit the same request over and over again! If you get shut down for an hour you have lost 1/3 of the midterm time!!
+**Important!: API usually limits the access to data to a certein number of requests per minute, or per hour, or per day.** Do not simply put API requests in a for look and just hammer away till you get it right! Do not submit the same request over and over again! If you get shut down for an hour you have lost 1/3 of the midterm time!! For example, in the EC in HW5 I am only asking the zipcode of each station once, by identifying the rides that originate from the same station ahead of time. This frops the number of requests from *hundreds of thousannds to ~100!*
+
+
 
 
