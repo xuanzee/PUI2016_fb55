@@ -2,6 +2,8 @@
 
 ## These are topics we reviewed o Friday in sight of the midterm.
 
+### The midterms are Tue and Thu in regular class hours. You are allowed to use internet and printed material. You are not allowes to collaborate or ask questions to your classmates. Delivety will be through NYUClasses.
+### Make sure your computer has all python packages we have used in class, and that you are able to access compute and jupyterhub as needed, although you are allowed to work on your local machine if you prefer. 
 
 ## - Data access
 
