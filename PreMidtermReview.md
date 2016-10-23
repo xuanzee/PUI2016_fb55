@@ -26,7 +26,7 @@ curl
 ```
 or
 ```
-curl
+wget
 ```
 commands. You can run those from the python code as 
 ```
