@@ -129,9 +129,13 @@ Do not carry around more data than you need! Do not create a dataframe every tim
 
 
 
-# Figres:
+# Figures:
 Every figure must have axis labels, title, and a Caption. It would be silly to lose points for this!! The caption should describe the plot first so that the readers know what they are reading, and then giudes the reader to the conclusions to be drawn from the plot. (This is less standard in journals and reports, but I require you to do it to make sure you make an effor to iterpret the visualizations you create, and that you only have meaningful figures in your work).
 
 Look for example here (I just picked a figure among millions which has a good descriptive graphics): http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165318
 
+# General Presentation
+Write in full sentences, in your best English. Describe what your code does block by block, with a dedicated cell or a comment before a line or set of lines of code. Discuss what conclusions can be made, and what are the weaknesses of the analysis you are asked to do. Improve the analysis if possible! 
+
+You are not bound to PEP8 requirements but you are bound to reasonable coding behavior!! The basic PEP8 rules are here if you wish to make an effort to adhere. They actually will help you coding better. https://github.com/fedhere/PUI2016_fb55/blob/master/PEP8MinimalRequirements.md
 
