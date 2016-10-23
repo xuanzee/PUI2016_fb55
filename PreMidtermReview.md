@@ -45,7 +45,7 @@ Notice how I used the "!curl" command when I hard-coded the url link in the comm
 ```
 os.system("mv data.csv " + os.getenv("PUIDATA"))
 ```
-If the destination is NOT a directory the file gets renamed to destination. 
+*If the destination is NOT an **existing** directory the file gets renamed to destination. *
 
 Note also that since you **always** want to refer to the directory where the data is stored using the environmental variable PUIDATA, which is a variable, every time you want to use it you do not have all the pieces of the command: you need to create the command from the variable!
 
