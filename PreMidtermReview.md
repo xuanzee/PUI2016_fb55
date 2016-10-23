@@ -93,5 +93,29 @@ https://maps.googleapis.com/maps/api/geocode/json?latlng=40.750020,-73.969053&ke
 **Important!: API usually limits the access to data to a certein number of requests per minute, or per hour, or per day.** Do not simply put API requests in a for look and just hammer away till you get it right! Do not submit the same request over and over again! If you get shut down for an hour you have lost 1/3 of the midterm time!! For example, in the EC in HW5 I am only asking the zipcode of each station once, by identifying the rides that originate from the same station ahead of time. This frops the number of requests from *hundreds of thousannds to ~100!*
 
 
+## Data Facility: 
+You will not be asked to access data that can only be accessed through the CUSP data facility (DF, https://datahub.cusp.nyu.edu/) since this would force you to work on compute. You can work on compute or on your laptop, as you prefer. You may be asked to access data that also exists on the CUSP data facility, and that should be welcome by you because accessing data from the DF is trivial from compute: all you need to do is find the *path* of the data and read it in as if it were on compute (cause it is on a disk which is mounted on compute). This was dome in HW 2 Assignment 3 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW2_fb55/Assignment3_fb55_solution.ipynb): 
+
+```
+DFDATA = "/gws/open/NYCOpenData/nycopendata/data/"
+df_gas = pd.read_csv(DFDATA + "/uedp-fegm/1414245967/uedp-fegm")
+```
+
+
+## Joining datasets.
+
+Most of the interesting science we can do comes joining different datasets and relate the features of one to those of another, like in HW6 
+
+Look at how pandas allows you to merge, and concatenate datasets. Take a very close look at the merge function! I am almost certain you will have to use it! That requires to have a common column (like the BBL in HW6) in both dataframes. Think about what the option "how" allows you to do: merge to get the *intersection* (only the rows in both dataframes), the *union* (all rows in both dataframes, with NaN where either one has missing values) or *left* and *righ* which import the values of the other dataframe on to the one you are merging on, but do not import rows that are only in the other dataframe.
+
+## Dropping and Reducing when possible! 
+
+Do not carry around more data than you need! Do not create a dataframe every time you want to change a value! Try to be conservative with the amount of studd that is occupying memory in your code and in your computer. Replace values when possible (and when sure you won't need the old value), rename columns instead of creating duplicated, use the method .map ro .apply to change the values in columns. 
+**Specifically, and particularly if you are under time pressure, it is a great idea to develope your code on a subset of the data** then rn t on the full dataset only at the end.
+
+
+
+
+
 
 
