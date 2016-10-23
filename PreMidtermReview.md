@@ -104,7 +104,7 @@ df_gas = pd.read_csv(DFDATA + "/uedp-fegm/1414245967/uedp-fegm")
 ```
 
 
-# Joining datasets.
+## -  Joining datasets.
 
 Most of the interesting science we can do comes joining different datasets and relate the features of one to those of another, like in HW6 
 
@@ -113,7 +113,7 @@ Look at how pandas allows you to merge, and concatenate datasets. Take a very cl
 Remember that most data wrangling techniques enabled by Pandas in python are described in Chapter 7 of Python for Data Analysis and I implemented (painfully) all examples in the chapter in an ipython notebook here https://github.com/fedhere/UInotebooks/blob/master/dataWrangling/PandasDataWrangling-Chap7.ipynb)
 
 
-# Dropping and Reducing when possible! 
+## -  Dropping and Reducing when possible! 
 
 Do not carry around more data than you need! Do not create a dataframe every time you want to change a value! Try to be conservative with the amount of studd that is occupying memory in your code and in your computer. Replace values when possible (and when sure you won't need the old value), rename columns instead of creating duplicated, use the method .map ro .apply to change the values in columns. 
 **Specifically, and particularly if you are under time pressure, it is a great idea to develope your code on a subset of the data** then rn t on the full dataset only at the end.
@@ -121,7 +121,7 @@ Do not carry around more data than you need! Do not create a dataframe every tim
 *If your kernel crashes there is 99% probability that you re doing something wrong or something unnecessary! Nothing that you will be asked to do requires sophisticated computing facilities.*
 
 
-# Hypothesis testing 
+## -  Hypothesis testing 
 
 ### Remember all the rules in place for hypothesis testing: particularly 
 1. set your significance level at the beginning of the work (alpha = ...)
@@ -131,13 +131,13 @@ Do not carry around more data than you need! Do not create a dataframe every tim
 
 
 
-# Figures:
+## -  Figures:
 Every figure must have axis labels, title, and a Caption. It would be silly to lose points for this!! The caption should describe the plot first so that the readers know what they are reading, and then giudes the reader to the conclusions to be drawn from the plot. (This is less standard in journals and reports, but I require you to do it to make sure you make an effor to iterpret the visualizations you create, and that you only have meaningful figures in your work).
 
 Look for example here (I just picked a figure among millions which has a good descriptive graphics): http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0165318
 
-# General Presentation
-Write in full sentences, in your best English. Describe what your code does block by block, with a dedicated cell or a comment before a line or set of lines of code. Discuss what conclusions can be made, and what are the weaknesses of the analysis you are asked to do. Improve the analysis if possible! 
+## -  General Presentation
+Write in full sentences, in your best English. Describe what the aim of the project at thge beginning, as if the grders did not know that. Describe what your code does block by block, with a dedicated cell or a comment before a line or set of lines of code. Discuss what conclusions can be made, and what are the weaknesses of the analysis you are asked to do. Improve the analysis if possible! 
 
 You are not bound to PEP8 requirements but you are bound to reasonable coding behavior!! The basic PEP8 rules are here if you wish to make an effort to adhere. They actually will help you coding better. https://github.com/fedhere/PUI2016_fb55/blob/master/PEP8MinimalRequirements.md
 
