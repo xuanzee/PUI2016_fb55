@@ -115,7 +115,13 @@ Do not carry around more data than you need! Do not create a dataframe every tim
 
 
 
+## Hypothesis testing 
 
+### Remember all the rules in place for hypothesis testing: particularly 
+1. set your significance level at the beginning of the work (alpha = ...)
+2. State the Null and alternative hypothesis in words and in mathematical fornulae as well.
+3. Make sure you are reading the appropriate table if you want to verify if the hypothesis can or cannot be rejected
+4. Make sure you read the documentation of the python packages you are using and you know how to read the output of a sttistical test (in terms of p-value).
 
 
 
