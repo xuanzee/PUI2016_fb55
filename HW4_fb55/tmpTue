@@ -1,0 +1,2403 @@
+Dear jc7344, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Shay Lehmann (sl5335), sl5335, shayle, 
+or
+2. Benjamin Miller (bm2393), bm2393, bsmiller25, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise the second one is. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+fb55@nyu.edu
+successfully sent the mail
+None
+fbianco@172-16-16-228: 23:54:59:~/science/Dropbox/UI/PUI2016_fb55$python  namechoice_HW4.py Tue 2 HW4_fb55/HW4msg.txt erail1959
+Dear jc7344, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Tashay Green (tg1478), tg1478, tashay, 
+or
+2. Christopher J Streich (cjs676), cjs676, Streich676, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise the second one is. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+fb55@nyu.edu
+successfully sent the mail
+None
+fbianco@172-16-16-228: 23:56:44:~/science/Dropbox/UI/PUI2016_fb55$python  namechoice_HW4.py Tue 2 HW4_fb55/HW4msg.txt erail1959
+Dear jc7344, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Adrian K Dahlin (akd361), akd361, adriandahlin, 
+or
+2. Nonie Mathur (nm2565), nm2565, noniemathur, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+jc7344@nyu.edu
+successfully sent the mail
+None
+Dear cc5219, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Vishwajeet Yashwantrao Shelar (vys217), vys217, vishelar, 
+or
+2. Julian Carrillo (jc7344), jc7344, jc7344, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+cc5219@nyu.edu
+successfully sent the mail
+None
+Dear ajd629, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Xinge Zhong (xz1809), xz1809, xingezhong, 
+or
+2. Akshay Kumar Varma Penmatcha (akp418), akp418, akpen, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+ajd629@nyu.edu
+successfully sent the mail
+None
+Dear akd361, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Anastasiya Shegay (as10790), as10790, as10790, 
+or
+2. Tashay Green (tg1478), tg1478, tashay, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+akd361@nyu.edu
+successfully sent the mail
+None
+Dear xd515, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Ian Wright (iw453), iw453, ian-wright, 
+or
+2. Xinshi Zheng (xz1845), xz1845, xinshizheng, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+xd515@nyu.edu
+successfully sent the mail
+None
+Dear df1676, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Kai Qu (kq320), kq320, kq320, 
+or
+2. Julian Carrillo (jc7344), jc7344, jc7344, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+df1676@nyu.edu
+successfully sent the mail
+None
+Dear df1383, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Nurvirta Monarizqa (nm2773), nm2773, nmonarizqa, 
+or
+2. Kevin Han (yxh204), yxh204, kevinhan0, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+df1383@nyu.edu
+successfully sent the mail
+None
+Dear fdg224, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Christian O Rosado (cor215), cor215, cor215, 
+or
+2. Xinshi Zheng (xz1845), xz1845, xinshizheng, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+fdg224@nyu.edu
+successfully sent the mail
+None
+Dear tg1478, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Zhaohong Niu (zn352), zn352, EstherNiu, 
+or
+2. xiaomeng dong (xd515), xd515, xd515, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+tg1478@nyu.edu
+successfully sent the mail
+None
+Dear yxh204, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Kristin Korsberg (kk3374), kk3374, kristikorsberg, 
+or
+2. LE XU (lx565), lx565, lx565, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+yxh204@nyu.edu
+successfully sent the mail
+None
+Dear hh1713, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Dana Karwas (dlk253), dlk253, dlk253, 
+or
+2. Xinge Zhong (xz1809), xz1809, xingezhong, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+hh1713@nyu.edu
+successfully sent the mail
+None
+Dear xh895, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Richard A Vecsler (rav220), rav220, rvecsler, 
+or
+2. Ian Wright (iw453), iw453, ian-wright, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+xh895@nyu.edu
+successfully sent the mail
+None
+Dear ak6129, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Jordan Vani (jmv423), jmv423, jvani, 
+or
+2. Adrian K Dahlin (akd361), akd361, adriandahlin, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+ak6129@nyu.edu
+successfully sent the mail
+None
+Dear dlk253, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Anastasiya Shegay (as10790), as10790, as10790, 
+or
+2. Benjamin Miller (bm2393), bm2393, bsmiller25, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+dlk253@nyu.edu
+successfully sent the mail
+None
+Dear kk3374, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Hrafnkell Hjorleifsson (hh1713), hh1713, hh1713, 
+or
+2. Patrick Gitundu Mwangi (pgm293), pgm293, PatrickGitundu, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+kk3374@nyu.edu
+successfully sent the mail
+None
+Dear sl5335, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Achilles Edwin Alfred Saxby (aes807), aes807, achillessaxby, 
+or
+2. Nurvirta Monarizqa (nm2773), nm2773, nmonarizqa, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+sl5335@nyu.edu
+successfully sent the mail
+None
+Dear kal573, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. LE XU (lx565), lx565, lx565, 
+or
+2. xiaomeng dong (xd515), xd515, xd515, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+kal573@nyu.edu
+successfully sent the mail
+None
+Dear chl557, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Victor Sette Gripp (vsg247), vsg247, victorsette, 
+or
+2. LE XU (lx565), lx565, lx565, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+chl557@nyu.edu
+successfully sent the mail
+None
+Dear nm2762, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. priyanshi singh (ps3369), ps3369, priyanshi09, 
+or
+2. Akshay Kumar Varma Penmatcha (akp418), akp418, akpen, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+nm2762@nyu.edu
+successfully sent the mail
+None
+Dear nm2565, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Jordan Vani (jmv423), jmv423, jvani, 
+or
+2. Xueqi Huang (xh895), xh895, clairehxq, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+nm2565@nyu.edu
+successfully sent the mail
+None
+Dear bm2393, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Anastasiya Shegay (as10790), as10790, as10790, 
+or
+2. Christian O Rosado (cor215), cor215, cor215, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+bm2393@nyu.edu
+successfully sent the mail
+None
+Dear nm2773, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Xinshi Zheng (xz1845), xz1845, xinshizheng, 
+or
+2. Dana Karwas (dlk253), dlk253, dlk253, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+nm2773@nyu.edu
+successfully sent the mail
+None
+Dear pgm293, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Jonathan A Toy (jt2276), jt2276, jontoy, 
+or
+2. Avikal Somvanshi (as10724), as10724, as10724, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+pgm293@nyu.edu
+successfully sent the mail
+None
+Dear zn352, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Chuan-Heng Lin (chl557), chl557, henrilin28, 
+or
+2. Richard A Vecsler (rav220), rav220, rvecsler, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+zn352@nyu.edu
+successfully sent the mail
+None
+Dear sp4356, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Dana Karwas (dlk253), dlk253, dlk253, 
+or
+2. Kristin Korsberg (kk3374), kk3374, kristikorsberg, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+sp4356@nyu.edu
+successfully sent the mail
+None
+Dear akp418, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Nurvirta Monarizqa (nm2773), nm2773, nmonarizqa, 
+or
+2. Ian Stuart (is1480), is1480, iwsstuart, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+akp418@nyu.edu
+successfully sent the mail
+None
+Dear gtp232, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Yuan Shi (ys2808), ys2808, yuanviola, 
+or
+2. Xinshi Zheng (xz1845), xz1845, xinshizheng, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+gtp232@nyu.edu
+successfully sent the mail
+None
+Dear jp4772, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Adrian K Dahlin (akd361), akd361, adriandahlin, 
+or
+2. Chuan-Heng Lin (chl557), chl557, henrilin28, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+jp4772@nyu.edu
+successfully sent the mail
+None
+Dear kq320, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Jordan Vani (jmv423), jmv423, jvani, 
+or
+2. Nurvirta Monarizqa (nm2773), nm2773, nmonarizqa, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+kq320@nyu.edu
+successfully sent the mail
+None
+Dear cor215, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Avikal Somvanshi (as10724), as10724, as10724, 
+or
+2. Zhaohong Niu (zn352), zn352, EstherNiu, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+cor215@nyu.edu
+successfully sent the mail
+None
+Dear aes807, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Xinge Zhong (xz1809), xz1809, xingezhong, 
+or
+2. Christopher J Streich (cjs676), cjs676, Streich676, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+aes807@nyu.edu
+successfully sent the mail
+None
+Dear vsg247, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Nurvirta Monarizqa (nm2773), nm2773, nmonarizqa, 
+or
+2. Christian O Rosado (cor215), cor215, cor215, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+vsg247@nyu.edu
+successfully sent the mail
+None
+Dear as10790, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Patrick Gitundu Mwangi (pgm293), pgm293, PatrickGitundu, 
+or
+2. Aaron Jude D'Souza (ajd629), ajd629, aaron-15, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+as10790@nyu.edu
+successfully sent the mail
+None
+Dear vys217, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. LE XU (lx565), lx565, lx565, 
+or
+2. Adrian K Dahlin (akd361), akd361, adriandahlin, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+vys217@nyu.edu
+successfully sent the mail
+None
+Dear ys2808, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Kai Qu (kq320), kq320, kq320, 
+or
+2. Jordan Vani (jmv423), jmv423, jvani, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+ys2808@nyu.edu
+successfully sent the mail
+None
+Dear ps3369, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Julian Carrillo (jc7344), jc7344, jc7344, 
+or
+2. Ian Wright (iw453), iw453, ian-wright, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+ps3369@nyu.edu
+successfully sent the mail
+None
+Dear as10724, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Geoff Thomas Perrin (gtp232), gtp232, gperrin12, 
+or
+2. Jonathan Pichot (jp4772), jp4772, pichot, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+as10724@nyu.edu
+successfully sent the mail
+None
+Dear cjs676, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Nurvirta Monarizqa (nm2773), nm2773, nmonarizqa, 
+or
+2. Jordan Vani (jmv423), jmv423, jvani, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+cjs676@nyu.edu
+successfully sent the mail
+None
+Dear is1480, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Dongjie Fan (df1676), df1676, Alan-F, 
+or
+2. Xueqi Huang (xh895), xh895, clairehxq, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+is1480@nyu.edu
+successfully sent the mail
+None
+Dear jt2276, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Yuan Shi (ys2808), ys2808, yuanviola, 
+or
+2. Anastasiya Shegay (as10790), as10790, as10790, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+jt2276@nyu.edu
+successfully sent the mail
+None
+Dear jmv423, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Nurvirta Monarizqa (nm2773), nm2773, nmonarizqa, 
+or
+2. Adrian K Dahlin (akd361), akd361, adriandahlin, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+jmv423@nyu.edu
+successfully sent the mail
+None
+Dear rav220, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Ian Stuart (is1480), is1480, iwsstuart, 
+or
+2. LE XU (lx565), lx565, lx565, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+rav220@nyu.edu
+successfully sent the mail
+None
+Dear yw2278, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Benjamin Miller (bm2393), bm2393, bsmiller25, 
+or
+2. LE XU (lx565), lx565, lx565, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+yw2278@nyu.edu
+successfully sent the mail
+None
+Dear iw453, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Kristin Korsberg (kk3374), kk3374, kristikorsberg, 
+or
+2. priyanshi singh (ps3369), ps3369, priyanshi09, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+iw453@nyu.edu
+successfully sent the mail
+None
+Dear lx565, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Sokratis Papadopoulos (sp4356), sp4356, spapadopoulos, 
+or
+2. Patrick Gitundu Mwangi (pgm293), pgm293, PatrickGitundu, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+lx565@nyu.edu
+successfully sent the mail
+None
+Dear xz1845, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Dana Karwas (dlk253), dlk253, dlk253, 
+or
+2. Sokratis Papadopoulos (sp4356), sp4356, spapadopoulos, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+xz1845@nyu.edu
+successfully sent the mail
+None
+Dear xz1809, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Adrian K Dahlin (akd361), akd361, adriandahlin, 
+or
+2. Xinshi Zheng (xz1845), xz1845, xinshizheng, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+xz1809@nyu.edu
+successfully sent the mail
+None
+Dear zz1598, 
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. Akshay Kumar Varma Penmatcha (akp418), akp418, akpen, 
+or
+2. Christian O Rosado (cor215), cor215, cor215, 
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
+
+zz1598@nyu.edu
+successfully sent the mail
+None
+

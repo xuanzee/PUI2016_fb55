@@ -1,0 +1,44 @@
+Dear %s
+
+for HW 4 Assignment 1 (https://github.com/fedhere/PUI2016_fb55/blob/master/HW4_fb55/README.md#assignment-1-review-your-classmates-citibike-project-proposal) you are paired with
+(name, netID, GitHub username)
+1. %s
+or
+2. %s
+
+PLEASE READ THE FOLLOWING INSTRUCTIONS CAREFULLY NOW!
+
+If the first of the two classmates is not in your group for the Citibike multi-week assignment, that is your assigned contact. Otherwise try the second one. If they are both in your working group for the Citibike multi-week assignment PLEASE CONTACT ME IMMEDIATELY, so that I can assign another classmate to you. By lunch time tomorrow I want to do the necessary reassignments so that each of you is paired with a classmate so I need to know ASAP.
+
+NOTE: if you already did the test in your own citibike assignment please remove it from your working notebook, so that your assigned reviewer has a chance to think about it for him/herself. You can move it to another notebook, and copy it that back in later.
+
+Follow the instructions give in the HW4 readme, and copied below for your convenience.
+
+
+Assignment 1: Review your classmate's Citibike project proposal
+
+**look in the classmate assigned to you PUI2016_<netID>/HW3_<netid> repo ASAP and identify their submission for the citibike project** (note: HW3 not HW4!). If you cannot find it contact them immediately! If you contact them and they have not done the project, let me know immediately so you can be reassigned.
+
+**Fork their repository, and clone it** (you did this in HW1, look at the instructions in the HW1 README if you need to refresh your memory)
+
+Read it carefully (but do not modify the notebook)! You have to:
+
+a. verify that their Null and alternative hypotheses are formulated correctly
+
+b. verify that the data supports the project: i.e. if the a data has the appropriate features (variables) to answer the question, and if the data was properly pre-processed to extract the needed values (there is some flexibility here since the test has not been chosen yet)
+
+c. Chose an appropriate test to test H0 given the type of data, and the question asked. You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
+
+**Write your comments, suggestions, and suggested statistical test, motivating your test choice, in a markdown named CitibikeReview_<netID>.md.**
+
+**Submit a pull request to the original repository.**
+
+Grading:
+
+you will be graded on the validity and depth of your review. 50% of the grade will be on the feedback on the research plan. Be thorough (without being offensive of course in your feedback: constructive rather than distructive feedback!). 50% will be on the suggested test: if it is the incorrect test you will loose points. However, if you motivate rationally your choice, you may get partial credit even if the test is not the best choice. Notice: I will be grading these assignments, not the TAs.
+
+
+Good Luck!
+
+Dr. Federica Bianco
+
