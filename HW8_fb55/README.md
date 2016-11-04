@@ -7,12 +7,12 @@ No assigned reading.
 
 
 
-Assignment 1: Finish Data Linkage Lab. 
+### Assignment 1: Finish Data Linkage Lab. 
 
 follow the instructions given to you in class. Work in groups as usual, report the makeup of your group and how you shared responsibilities in a README for the repo as usual.
 
 
-Assignment 2: Peer review of 2 classmate’s plots
+### Assignment 2: Peer review of 2 classmate’s plots
 You will recieve an email with the name, nyuID, and GitHub username of two classmate.
 
 Check that *both* of these class-mates have plots posted in their HW7_<netID> directory ASAP. If you cannot find it contact them immediately!
@@ -20,8 +20,6 @@ Check that *both* of these class-mates have plots posted in their HW7_<netID> di
 Fork their repository, and clone it (you did this in HW1, and Hw4, look at the instructions in the HW1 README if you need to refresh your memory)
 
 Do not modify the files (or you will have to deal with merge issues)! You have to:
-
-Assignment 2: 
 
 Follow the instruction in the email you will recieve and review their plots according to the guidelines learned in the Viz lecture.
 https://github.com/fedhere/UInotebooks/blob/master/slides/UI7_PUI2016.pdf
