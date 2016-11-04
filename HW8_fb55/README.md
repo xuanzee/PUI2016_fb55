@@ -1,4 +1,5 @@
-# PUI2016 HW 8 for Tuesday session, HW9 for Thursday session. But please name your directory HW8_\<netID>
+# PUI2016 HW 8 for Tuesday session, HW9 for Thursday session. 
+## But please name your directory HW8_\<netID>
 
 ## ASSIGNED READING:
 
@@ -9,7 +10,9 @@ No assigned reading.
 
 ### Assignment 1: Finish Data Linkage Lab. 
 
-follow the instructions given to you in class. Work in groups as usual, report the makeup of your group and how you shared responsibilities in a README for the repo as usual.
+follow the instructions given to you in class. 
+https://github.com/fedhere/PUI2016_fb55/blob/master/Lab8_fb55/PUI%202016%20-%20Working%20with%20Data%20Lab.ipynb
+Work in groups as usual, report the makeup of your group and how you shared responsibilities in a README for the repo as usual.
 
 
 ### Assignment 2: Peer review of 2 classmate’s plots
