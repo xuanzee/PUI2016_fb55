@@ -2,7 +2,7 @@
 ## But please name your directory HW9_\<netID>
 
 # IMPORTANT NOTE: from this homework on you are graded on [PEP8](https://www.python.org/dev/peps/pep-0008/) compliance as well!
-Use https://github.com/fedhere/PUI2016_fb55/blob/master/PEP8MinimalRequirements.md as a giodeline.
+Use https://github.com/fedhere/PUI2016_fb55/blob/master/PEP8MinimalRequirements.md as a guideline.
 
 
 ## ASSIGNED READING:
